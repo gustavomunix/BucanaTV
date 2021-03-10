@@ -69,3 +69,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-chno="5" group-title="Bucana TV (São Paulo)", Globo SP
 http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/223.ts'victorallm.ts
+#EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP2" tvg-chno="5" group-title="Bucana TV (São Paulo)", Globo SP
+http://pdsrv.io:80/fabioscaief99/FS9981/61302

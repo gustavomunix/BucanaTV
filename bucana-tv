@@ -1,6 +1,110 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Bucana TV (São Paulo)", Globo SP HD
-http://pdsrv.io:80/fabioscaief99/FS9981/61302
+#EXTINF: -1 tvg-id="Rit.br" tvg-chno="3" tvg-logo="https://digitalapi.sky.com.br/logos/channels/3.png" group-title="Bucana TV (São Paulo)", RIT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615443023/ei/719JYMKzD_SG1sQP7_KviA0/ip/179.251.233.137/id/6-mb8_W96mQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/short_key/1/keepalive/yes/fexp/24001374%2C24007246/beids/23886214/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMHl67W3Av60DAATLiyoBCtdv1crX98_fwRFCnCXTBneAiEAtz-QwHF-KvL8zjdazf2O3A-th9_cVFVLKpHCg2dHGiQ%3D/file/index.m3u8
+#EXTINF: -1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA" tvg-chno="2" tvg-logo="https://digitalapi.sky.com.br/logos/channels/2.png" group-title="Bucana TV (São Paulo)", TV Cultura
+http://srvx.io:80/live/7885037935/fireurl.co/71853.ts
+#EXTINF: -1 tvg-id="Redevida.br" tvg-name="Rede Vida" tvg-chno="6" tvg-logo="https://digitalapi.sky.com.br/logos/channels/6.png" group-title="Bucana TV (São Paulo)", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="Sbt.br" tvg-name="SBT" tvg-chno="9" tvg-logo="https://digitalapi.sky.com.br/logos/channels/9.png" group-title="Bucana TV (São Paulo)", SBT
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sbt.m3u8?mu3zAQc9HC3GbwJq=QgEfdA4r4pQnzVRZLQcT7w&3U1G7qaTxrPbalZnEx=1615451243
+#EXTINF: -1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-chno="5" tvg-logo="https://digitalapi.sky.com.br/logos/channels/5.png" group-title="Bucana TV (São Paulo)", Globo SP
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=P0SEfW2pSaozqMdMhR9xjg&3U1G7qaTxrPbalZnEx=1615450894
+#EXTINF: -1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA" tvg-chno="8" tvg-logo="https://digitalapi.sky.com.br/logos/channels/8.png" group-title="Bucana TV (São Paulo)", Canção Nova
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615441729/ei/4VpJYJDoKauY1sQP_4iE4AY/ip/179.251.233.137/id/hts0EkcUlr8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/short_key/1/keepalive/yes/fexp/24001374%2C24007246/beids/23886214/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALm0fGJYq05AL6D3RMxWFcwMKosLMs2PYKUpGvtdcmzLAiAi9Bd4sJTO2xqtmmIEZ9qHrU482iugVkHpV6cpFkqdjg%3D%3D/file/index.m3u8
+#EXTINF: -1 tvg-id="Rederecord.br" tvg-name="Record" tvg-chno="7" tvg-logo="https://digitalapi.sky.com.br/logos/channels/7.png" group-title="Bucana TV (São Paulo)", Record TV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/11.png" group-title="Bucana TV (São Paulo)", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF: -1 tvg-id="Bandhd.br" tvg-name="BAND HD" tvg-chno="13" tvg-logo="https://digitalapi.sky.com.br/logos/channels/13.png" group-title="Bucana TV (São Paulo)", Bandeirantes
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/band.m3u8?mu3zAQc9HC3GbwJq=lsUVXgj8IqBOETj3NgPe9g&3U1G7qaTxrPbalZnEx=1615451433
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/14.png" group-title="Bucana TV (São Paulo)", Rede CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+#EXTINF: -1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-chno="15" tvg-logo="https://digitalapi.sky.com.br/logos/channels/15.png" group-title="Bucana TV (São Paulo)", Rede TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/16.png" group-title="Bucana TV (São Paulo)", Loading
+https://verizon.br.cdn.booyah.live/hls/1000003/34850987_1080.m3u8
+#EXTINF: -1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL" tvg-chno="17" tvg-logo="https://digitalapi.sky.com.br/logos/channels/17.png" group-title="Bucana TV (São Paulo)", Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/18.png" group-title="Bucana TV (São Paulo)", TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/19.png" group-title="Bucana TV (São Paulo)", Record News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615443397/ei/ZWFJYPy6DdOb1sQP_uS_0AM/ip/179.251.233.137/id/ZZfVgVnnUpo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/short_key/1/keepalive/yes/fexp/24001374%2C24007246/beids/23886214/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQDyiG_GkDzSIkM4mlB936cqfYKFi5TUyGaez3pvL89kCIQDeN1vSao3PT0YxiONDWuPRqxf-0eTYd3vb3KoRik2F2A%3D%3D/file/index.m3u8
+#EXTINF: -1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA" tvg-chno="22" tvg-logo="https://digitalapi.sky.com.br/logos/channels/22.png" group-title="Bucana TV (São Paulo)", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
+#EXTINF: -1 tvg-id="TV BRASIL" tvg-name="Tvbrasil.br" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="Bucana TV (São Paulo)", TV Brasil
+https://video-rvd-mg-1.rnp.br/live/ocp(t(FmsiTBGzXTg)r(fVR9ug)a(s_vpiQ)p(d(2xc)k(q8U)m(srKb-c5A9pCX6iTrwTfKpA)n(a(C3ILNg)s(fb4)'a(XLnekg)s(gK0)))s(s(TCM)b(OhX3dsduV66f4ikGmxghz9EY3IM7aCyB6QidPeqgqJeW80k1CUiQgwzRdTvPVwPDy8mcfdhkbZnwDBNChA)'s(_9U)b(pGaaHXtjwiYL1urZhrA7mFdXwfoNIg0afVVmZC81qlzaRrGCJoMgNL9yCxMpmuiBAeOzXqV7ApogZcPqsxlSFo6GSGKZlQL0xz3v7rNx)'s(j-4)b(5V3UxgCJ))m(0))/1_index.m3u8
+#EXTINF: -1 tvg-id="Tvcamara.br" tvg-name="TV CÂMARA" tvg-chno="24" tvg-logo="https://digitalapi.sky.com.br/logos/channels/24.png" group-title="Bucana TV (São Paulo)", TV Justiça
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615445950/ei/XmtJYIyPFOaa1sQPwriL4AI/ip/179.251.233.137/id/IjLRDlCOb9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/short_key/1/keepalive/yes/fexp/24001374%2C24007246/beids/23886214/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOIO5NSdS6rdozFOJPUWilUyp1F6RYAJvjRHgK7MbyHNAiA7QHbz6FrgUzcYOwkGSSq--u0cqJNhHJIsHhjyaWwfAQ%3D%3D/file/index.m3u8
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/33.png" group-title="Bucana TV (São Paulo)", Shoptime
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615436625/ei/8EZJYPLaN_-a1sQPueq1cA/ip/179.251.233.137/id/ZC0_rKob80I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/short_key/1/keepalive/yes/fexp/24001374%2C24007246/beids/23886214/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN0VMf65nUtox5iPjnfQ4vZXRsSvGKHopwMp7jExY00dAiEArOgYT0_Ga6R92oKBYvj1KnGKRGxSLLavXPXhhTKJGVQ%3D/file/index.m3u8
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Canal Off
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/off.m3u8?mu3zAQc9HC3GbwJq=GsPZYtJpM-swOzHcu1a1ig&3U1G7qaTxrPbalZnEx=1615451073
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/37.png" group-title="Bucana TV (São Paulo)", Sportv 3
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/38.png" group-title="Bucana TV (São Paulo)", Sportv 2
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/39.png" group-title="Bucana TV (São Paulo)", Sportv
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Globo News
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/globonews.m3u8?mu3zAQc9HC3GbwJq=8tWoFkqkJxi5kaQbOSRJRg&3U1G7qaTxrPbalZnEx=1615450963
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/41.png" group-title="Bucana TV (São Paulo)", GNT
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gnt.m3u8?mu3zAQc9HC3GbwJq=q5TtlsQLePugz8ARo7gPMw&3U1G7qaTxrPbalZnEx=1615450166
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Multishow
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/multishow.m3u8?mu3zAQc9HC3GbwJq=ELhZLySyhLIjHdCNRwjBIQ&3U1G7qaTxrPbalZnEx=1615451531
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Viva
+http://dnsx.co:80/9021560985/fireurl.co/72430
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Mais Globosat
+http://diretogo.com:80/d538076x/538076/17358
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/50.png" group-title="Bucana TV (São Paulo)", DIscovery Kids
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverykids.m3u8?mu3zAQc9HC3GbwJq=927G3zK23j_GU62k7Ave9Q&3U1G7qaTxrPbalZnEx=1615450438
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Net Geo Kids
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=jwLsL67dq1djxNOkCOEXAg&3U1G7qaTxrPbalZnEx=1615452966
+#EXTINF: -1 tvg-logo="https://digitalapi.sky.com.br/logos/channels/51.png" group-title="Bucana TV (São Paulo)", Gloobinho
+http://srvx.io:80/live/7885037935/fireurl.co/90631.ts
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Disney XD
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disneyxd.m3u8?mu3zAQc9HC3GbwJq=IOmLRf88581b03EMeitelQ&3U1G7qaTxrPbalZnEx=1615450013
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Disney Channel
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=ZQFLdQ5iP8mi75rbSZGDxg&3U1G7qaTxrPbalZnEx=1615450582
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Gloob
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=KUNT3zpJnIH2VWrAIASsMw&3U1G7qaTxrPbalZnEx=1615451631
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Nickelodeon
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=LDfHanVKSLnma3DrYrV8Bg&3U1G7qaTxrPbalZnEx=1615450711
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Nick Jr.
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=pvi0S3TaQ5GrRxlJKo4_lQ&3U1G7qaTxrPbalZnEx=1615450827
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Cartoon Network
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=M70b8uZnhXKZn2UTRmLRZA&3U1G7qaTxrPbalZnEx=1615451701
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Tooncast
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=7vq1onr_T9akPO2U4-KwXQ&3U1G7qaTxrPbalZnEx=1615451832
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery Channel
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=7OrttMU6cXnKet__ccgLUw&3U1G7qaTxrPbalZnEx=1615451986
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery Turbo
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryturbo.m3u8?mu3zAQc9HC3GbwJq=kY9N0vKyeCc7tNHnEifhxg&3U1G7qaTxrPbalZnEx=1615452328
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery Science
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverysience.m3u8?mu3zAQc9HC3GbwJq=2zh_SoifBL76_2uW7TQFfQ&3U1G7qaTxrPbalZnEx=1615452389
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery Home & Health
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=gV3mSw7daKv226vWHAn1cQ&3U1G7qaTxrPbalZnEx=1615452747
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery ID
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/investigacaodiscovery.m3u8?mu3zAQc9HC3GbwJq=9dm02HngMU9iquzlqsPXcA&3U1G7qaTxrPbalZnEx=1615452641
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery Theater
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverytheater.m3u8?mu3zAQc9HC3GbwJq=O4-jTnb6dKwEWDBMVbu-pg&3U1G7qaTxrPbalZnEx=1615452427
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Discovery World
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryworld.m3u8?mu3zAQc9HC3GbwJq=RexlUU-nyeOk7iUCw8-phQ&3U1G7qaTxrPbalZnEx=1615452467
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", History
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=J3vD6C7T1dsxH35o2v7JUA&3U1G7qaTxrPbalZnEx=1615452155
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", H2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=GpIFbE22EsA8W50edEmqDg&3U1G7qaTxrPbalZnEx=1615452286
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Animal Planet
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=T1y72nUCDPIKJ4NyZC0tJw&3U1G7qaTxrPbalZnEx=1615452083
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", National Geographic
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=YYezSiSkfDAPAPpH0_Giqg&3U1G7qaTxrPbalZnEx=1615453125
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Net Geo Wild
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=F2jHMdvuL8kGNfmoTq3AoA&3U1G7qaTxrPbalZnEx=1615453050
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", TCL
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=lhXzq01fyzFWbGc9BYDJiQ&3U1G7qaTxrPbalZnEx=1615453496
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", E! Entertainment Television
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/canale.m3u8?mu3zAQc9HC3GbwJq=nEVibhwNwteED20tPTiFIg&3U1G7qaTxrPbalZnEx=1615453648
+#EXTINF: -1 group-title="Bucana TV (São Paulo)", Big Brother Brasil 21
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bbb21.m3u8?mu3zAQc9HC3GbwJq=FeRpKCUsfc3qapDwMi9XPg&3U1G7qaTxrPbalZnEx=1615453753
 #EXTINF: -1 tvg-id="5f6df6293a12e10007017396" tvg-name="A vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Pluto.TV", A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF: -1 tvg-id="5f99aad4e82db50007fac4b2" tvg-name="As  Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="Pluto.TV", As  Pistas de Blue

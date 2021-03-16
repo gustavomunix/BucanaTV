@@ -4,15 +4,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a7
 #EXTINF:0 type="stream" channelId="2566" name="TV CÂMARA" logo="https://digitalapi.sky.com.br/logos/channels/22.png", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
 #EXTINF:0 type="stream" channelId="2567", TV Senado
-https://tv.bahialink.net.br/media/n/BZfJAdiW/a/playlist.m3u8?ch=BZfJAdiW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODA3NzEsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg2OTk3MX0.kBq7iUh_CR3YNxNyKgFNU7vxEF-CFycP2d5OHPmO4ps
+https://tv.bahialink.net.br/media/n/BZfJAdiW/a/playlist.m3u8?ch=BZfJAdiW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="2570", TV Justiça
-https://tv.bahialink.net.br/media/n/BZfJAdi2/a/playlist.m3u8?ch=BZfJAdi2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODA4NTQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg3MDA1NH0.dh-gkLKD8yGe_0IU17VjvOGU5S7GigmXWh-m6E-BJXw
+https://tv.bahialink.net.br/media/n/BZfJAdi2/a/playlist.m3u8?ch=BZfJAdi2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="2454", Canal Futura
-https://tv.bahialink.net.br/media/n/BZfJAdi3/a/playlist.m3u8?ch=BZfJAdi3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODA2MzgsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg2OTgzOH0.c47KTsCAdLN2GL2PkP9tjAnWquEUOWIiBboWNwtplwY
+https://tv.bahialink.net.br/media/n/BZfJAdi3/a/playlist.m3u8?ch=BZfJAdi3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="2466" name="Tvbrasil.br" logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png", TV Brasil
 https://cdn-1.nxplay.com.br/TV_BRASIL_NX/video.m3u8
-#EXTINF:0 type="stream" channelId="2569", TV Escola
-https://cdn-1.nxplay.com.br/TV_ESCOLA_NX/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTU4NTI5MDgsIm5iZiI6MTYxNTg1MjkwOCwiZXhwIjoxNjE1ODUzMjA4LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTI0MTMwMTA5NzYwNGZmNTZjODYzYTM3Ljg2NzUwNDM0IiwiY2xpZW50ZSI6IjE3Mi4zMS44My4xMTQifQ.DEjNmjoxoFjipMaxFtVb89rFpWVxXRIiAEDdI6Ss2Fs
 #EXTINF:0 type="stream" channelId="-1" logo="https://digitalapi.sky.com.br/logos/channels/18.png", TV Pai Eterno
 https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/video.m3u8
 #EXTINF:0 type="stream" channelId="2609", Novo Tempo
@@ -57,13 +55,13 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="4647" logo="https://i.imgur.com/c0pR6LU.jpg", CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:0 type="stream" channelId="1263" logo="https://digitalapi.sky.com.br/logos/channels/197.png", ESPN HD
+#EXTINF:0 type="stream" channelId="1263" logo="https://digitalapi.sky.com.br/logos/channels/197.png" tvg-country="BR", ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="3746" logo="https://digitalapi.sky.com.br/logos/channels/599.png", ESPN 2 HD
+#EXTINF:0 type="stream" channelId="3746" logo="https://digitalapi.sky.com.br/logos/channels/599.png" tvg-country="BR", ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="4657" logo="https://digitalapi.sky.com.br/logos/channels/600.png", ESPN Extra
+#EXTINF:0 type="stream" channelId="4657" logo="https://digitalapi.sky.com.br/logos/channels/600.png" tvg-country="BR", ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="2578" logo="https://digitalapi.sky.com.br/logos/channels/198.png", ESPN Brasil
+#EXTINF:0 type="stream" channelId="2578" logo="https://digitalapi.sky.com.br/logos/channels/198.png" tvg-country="BR", ESPN Brasil
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
 #EXTINF:0 type="stream" channelId="2574", Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/index.m3u8
@@ -92,17 +90,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Família" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png", Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1", BLK Kids
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1oda3otG/a/BZi1mdyXy2G1oda3otG/720p/chunks.m3u8?ch=BZi1mdyXy2G1oda3otG&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4Nzk2MTAsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg2ODgxMH0.XFFO1F33QFBDRtfX54XamC4hD1zApfpLR40Up0wwCM4
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1oda3otG/a/playlist.m3u8?ch=BZi1mdyXy2G1oda3otG&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="-1" name="Paramount+ Apresenta" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png", Paramount+ Apresenta
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="4036" tvg-country="BR", Paramount Network
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/index.m3u8
-#EXTINF:0 type="stream" channelId="4036", Paramount Network HD
+#EXTINF:0 type="stream" channelId="4036" tvg-country="BR", Paramount Network HD
 https://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Séries" logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" size="Small", Bucana TV Séries
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2602", TBS Brasil
+https://origin-02.nxplay.com.br/TBS/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2602", TBS Brasil HD
+https://origin-02.nxplay.com.br/TBS/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BLK Extreme
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1nZi5nty/a/playlist.m3u8?ch=BZi1mdyXy2G1nZi5nty&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODAzNDcsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg2OTU0N30.P0z7arElKvITh4M7Nxe9_NUQT6PgTFXQA0XRVMem3-0
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1nZi5nty/a/playlist.m3u8?ch=BZi1mdyXy2G1nZi5nty&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="2620" logo="https://digitalapi.sky.com.br/logos/channels/85.png", Discovery Home & Health (beta)
 http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Investigação" logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png", Bucana TV Investigação
@@ -111,6 +111,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Natureza" logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png", Bucana TV Natureza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", AnimNature
+http://200.194.238.236:5000/play/a006/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Tastemade" logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png", Tastemade
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="Porta dos Fundos" logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png", Porta dos Fundos
@@ -123,38 +125,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c16
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV HD
 https://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2l2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="MTV Pluto TV" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png", MTV 2
+#EXTINF:0 type="stream" channelId="-1", MTV Live
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v2a1a2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV Live HD
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MTV Pluto TV" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png", MTV Bucana TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="MTV Are you the One?" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png", MTV 3
+#EXTINF:0 type="stream" channelId="-1" name="MTV Are you the One?" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png", MTV Are you the One?
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1", A Plateia
-https://video01.kshost.com.br/kamal3422/kamal3422/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/solidLogoPNG.png", Live Music Replay
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/solidLogoPNG.png", MTV Block Party
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/solidLogoPNG.png", MTV Spankin' New
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/solidLogoPNG.png", MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/solidLogoPNG.png", Yo! MTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/solidLogoPNG.png", MTV Mistle YO!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/solidLogoPNG.png", Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png", Vevo Raggaeton & Trap
-https://service-stitcher.clusters.pluto.tv/proxy/5c9fe210-8624-11eb-9d15-0242ac110002/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=8161bc00-7036-483a-965c-b3e4c320d6f5&clientModelNumber=na&deviceDNT=false&deviceId=8161bc00-7036-483a-965c-b3e4c320d6f5&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=US&serverSideAds=true&sessionID=5c9fe210-8624-11eb-9d15-0242ac110002&sid=5c9fe210-8624-11eb-9d15-0242ac110002&userId=&startingOffset=0
-#EXTINF:0 type="stream" channelId="-1", Vevo R&B
-https://service-stitcher.clusters.pluto.tv/proxy/5c9fe210-8624-11eb-9d15-0242ac110002/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=8161bc00-7036-483a-965c-b3e4c320d6f5&clientModelNumber=na&deviceDNT=false&deviceId=8161bc00-7036-483a-965c-b3e4c320d6f5&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=US&serverSideAds=true&sessionID=5c9fe210-8624-11eb-9d15-0242ac110002&sid=5c9fe210-8624-11eb-9d15-0242ac110002&userId=&startingOffset=0
-#EXTINF:0 type="stream" channelId="-1", Vevo 70s
-https://service-stitcher.clusters.pluto.tv/proxy/5c9fe210-8624-11eb-9d15-0242ac110002/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=8161bc00-7036-483a-965c-b3e4c320d6f5&clientModelNumber=na&deviceDNT=false&deviceId=8161bc00-7036-483a-965c-b3e4c320d6f5&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=US&serverSideAds=true&sessionID=5c9fe210-8624-11eb-9d15-0242ac110002&sid=5c9fe210-8624-11eb-9d15-0242ac110002&userId=&startingOffset=0
-#EXTINF:0 type="stream" channelId="-1", Vevo 80s
-https://service-stitcher.clusters.pluto.tv/proxy/5c9fe210-8624-11eb-9d15-0242ac110002/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=8161bc00-7036-483a-965c-b3e4c320d6f5&clientModelNumber=na&deviceDNT=false&deviceId=8161bc00-7036-483a-965c-b3e4c320d6f5&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=US&serverSideAds=true&sessionID=5c9fe210-8624-11eb-9d15-0242ac110002&sid=5c9fe210-8624-11eb-9d15-0242ac110002&userId=&startingOffset=0
-#EXTINF:0 type="stream" channelId="-1", Vevo 90s
-https://service-stitcher.clusters.pluto.tv/proxy/5c9fe210-8624-11eb-9d15-0242ac110002/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=8161bc00-7036-483a-965c-b3e4c320d6f5&clientModelNumber=na&deviceDNT=false&deviceId=8161bc00-7036-483a-965c-b3e4c320d6f5&deviceLat=40.7316&deviceLon=-73.9985&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.82&marketingRegion=US&serverSideAds=true&sessionID=5c9fe210-8624-11eb-9d15-0242ac110002&sid=5c9fe210-8624-11eb-9d15-0242ac110002&userId=&startingOffset=0
-#EXTINF:0 type="stream" channelId="-1", Vevo 2k
-https://5ff625f486b783000187e132-pluto.ssai.zype.com/5ff625f486b783000187e132_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5ff625f486b783000187e132_pluto&manifest_id=08fcd78b-f0a8-45cc-9ed8-0bb70e9ec63e&rendition=480&session_id=86984280-9d7e-2fd3-714f-83e735768b72&partner_id=pluto_tv
 #EXTINF:0 type="stream" channelId="2590", Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2590", Multishow HD
@@ -174,7 +152,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Os Três Patetas" logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/solidLogoPNG.png", Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="2630", Canal do Boi
-https://tv.bahialink.net.br/media/n/BZjJAdu0/a/playlist.m3u8?ch=BZjJAdu0&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODA5MDcsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg3MDEwN30.iwr3IDTww7BlSrEEsQ5Nb1gUr2cxdzQ3y3EZh5WK6mQ
+https://tv.bahialink.net.br/media/n/BZjJAdu0/a/playlist.m3u8?ch=BZjJAdu0&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Kids" logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" size="Small", Bucana TV Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1", Play Kids HD
@@ -214,7 +192,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 #EXTINF:0 type="stream" channelId="-1" logo="http://i.imgur.com/me7Ae0Q.png", Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Acesse e Play
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GZnW/a/playlist.m3u8?ch=BZi1mdyXy2GZnW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU4ODAxOTIsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTg2OTM5Mn0.jXoQx8B22PRxD3AwXFlC__MhUyzkyhdp5Ur7fokAXP0
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GZnW/a/playlist.m3u8?ch=BZi1mdyXy2GZnW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTU5MTY5MzQsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImlhdCI6MTYxNTkwNjEzNH0.0ysq5koPATlSraWOpvGbvBI-sPrpBP5ETpE9LOI-Hs0
 #EXTINF:0 type="stream" channelId="-1" name="Pluto TV Anime" logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" size="Small", Bucana TV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="Naruto" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
@@ -229,5 +207,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1", TV America Mix
 https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" background="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/solidLogoPNG.png", Combate World
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

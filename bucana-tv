@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="Pluto.TV" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png", Canal do Cliente
+#EXTINF:0 type="stream" channelId="-1" name="Pluto.TV" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Medium" background="#000000", Canal do Cliente
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="2566" name="TV CÂMARA" logo="https://digitalapi.sky.com.br/logos/channels/22.png", TV Câmara
+#EXTINF:0 type="stream" channelId="2566" name="TV CÂMARA" logo="https://i.imgur.com/ORILxli.png" size="Small" background="#127b81", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
-#EXTINF:0 type="stream" channelId="2466" name="Tvbrasil.br" logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png", TV Brasil
+#EXTINF:0 type="stream" channelId="2466" name="Tvbrasil.br" logo="https://i.imgur.com/RMYerXY.png" background="#115628", TV Brasil
 https://cdn-1.nxplay.com.br/TV_BRASIL_NX/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://digitalapi.sky.com.br/logos/channels/18.png", TV Pai Eterno
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/FecmCJp.png" background="#fa921f", TV Pai Eterno
 https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/video.m3u8
-#EXTINF:0 type="stream" channelId="2609", Novo Tempo
+#EXTINF:0 type="stream" channelId="2609" logo="https://i.imgur.com/QB4AoSG.png" background="#fcd427", Novo Tempo
 https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="2451" name="Rede Vida" logo="https://digitalapi.sky.com.br/logos/channels/6.png", Rede Vida
+#EXTINF:0 type="stream" channelId="2451" name="Rede Vida" logo="https://i.imgur.com/spwcMJ5.png" background="#1e5693", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2439" logo="https://digitalapi.sky.com.br/logos/channels/14.png", Rede CNT
+#EXTINF:0 type="stream" channelId="2439" logo="https://i.imgur.com/dvpV5HY.png" background="#000000", Rede CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
-#EXTINF:0 type="stream" channelId="2448" logo="https://digitalapi.sky.com.br/logos/channels/11.png", TV Aparecida
+#EXTINF:0 type="stream" channelId="2448" logo="https://i.imgur.com/nNUoXp4.png" background="#064c76", TV Aparecida
 https://cdn-1.nxplay.com.br/TV_APARECIDA/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gospel Music
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
@@ -69,21 +69,21 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://digitalapi.sky.com.br/logos/channels/16.png", Loading
 https://aws-br.cdn.booyah.live/hls/1000021/34850987_1080.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Sucessos" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png", Cine Sucessos
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Sucessos" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" background="#000000", Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Ação" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png", Cine Ação
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Ação" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" background="#000000", Cine Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Comédia" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png", Cine Comédia
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Comédia" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" background="#000000", Cine Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Drama" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png", Cine Drama
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Drama" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" background="#000000", Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Filmes Suspense" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png", Cine Suspense
+#EXTINF:0 type="stream" channelId="-1" name="Filmes Suspense" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" background="#000000", Cine Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Terror" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png", Cine Terror
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Terror" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" background="#000000", Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Nacionais" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png", CIne Filmes Nacionais
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Nacionais" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" background="#000000", CIne Filmes Nacionais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Família" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png", Cine Família
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Família" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" background="#000000", Cine Família
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="Paramount+ Apresenta" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png", Paramount+ Apresenta
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -199,3 +199,5 @@ http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="The Pet Collective" logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png", The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", BBB Eliminação
+https://live-as-08-24.video.globo.com/d/nl/s/hls-pjc/playlist.m3u8?h=0411615951152883432207516159546325132630646HMsKaFmd0AZNCYE3mpkqHw&k=html5&a=F&u=anonymous_glive_8341efde-6576-40ef-bc70-6c145858b5ae

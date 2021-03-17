@@ -200,4 +200,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b
 #EXTINF:0 type="stream" channelId="-1" name="The Pet Collective" logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png", The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1", BBB Eliminação
-https://live-as-08-24.video.globo.com/d/nl/s/hls-pjc/playlist.m3u8
+https://live-as-08-24.video.globo.com/d/nl/s/hls-pjc/hls-pjc_1573/playlist.m3u8

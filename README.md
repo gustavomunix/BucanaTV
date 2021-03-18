@@ -7,3 +7,5 @@ Nosso diferencial é justamente a interface e facilidades para o usuário, entre
 
 - Baixe o SS-IPTV em sua Smart-TV, TV Box ou afins
 - Acesse as configurações do SS-IPTV, na aba "Conteúdo" adicione nosso repositório, e atualize a suas listas.
+
+<img scr="./preview 1.1.jpg">

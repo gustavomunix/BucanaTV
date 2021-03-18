@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="Pluto.TV" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Medium" background="#000000", Canal do Cliente
+#EXTINF:0 type="stream" channelId="-1" name="Pluto.TV" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Medium" background="#000000", Bucana TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="2566" name="TV CÂMARA" logo="https://i.imgur.com/ORILxli.png" size="Small" background="#127b81", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
@@ -7,39 +7,39 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
 https://cdn-1.nxplay.com.br/TV_BRASIL_NX/video.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/FecmCJp.png" background="#fa921f", TV Pai Eterno
 https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/video.m3u8
-#EXTINF:0 type="stream" channelId="2609" logo="https://i.imgur.com/QB4AoSG.png" background="#fcd427", Novo Tempo
+#EXTINF:0 type="stream" channelId="2609" logo="https://i.imgur.com/QB4AoSG.png" background="#00c712", Novo Tempo
 https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="2451" name="Rede Vida" logo="https://i.imgur.com/spwcMJ5.png" background="#1e5693", Rede Vida
+#EXTINF:0 type="stream" channelId="2451" name="Rede Vida" logo="https://i.imgur.com/spwcMJ5.png" background="#9b9400", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2439" logo="https://i.imgur.com/dvpV5HY.png" background="#000000", Rede CNT
+#EXTINF:0 type="stream" channelId="2439" logo="https://i.imgur.com/dvpV5HY.png" background="#035fe4", Rede CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:0 type="stream" channelId="2448" logo="https://i.imgur.com/nNUoXp4.png" background="#064c76", TV Aparecida
 https://cdn-1.nxplay.com.br/TV_APARECIDA/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Gospel Music
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/jXBUVhr.png" background="#464646", Gospel Music
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/XlNKtkD.jpg", Gospel Movie
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/Xbe0FNZ.png" background="#464646", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/aoq9CGU.png", Gospel Cartoon
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/uLIlR4v.png" background="#464646", Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Metrópole
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/pRVNFVy.png" background="#c008c6", Rede Metrópole
 https://cdn-1.nxplay.com.br/METROPOLE/video.m3u8
-#EXTINF:0 type="stream" channelId="2467" name="TV CULTURA" logo="https://digitalapi.sky.com.br/logos/channels/2.png", TV Cultura
+#EXTINF:0 type="stream" channelId="2467" name="TV CULTURA" logo="https://i.imgur.com/WBBNflG.png" background="#33cc66", TV Cultura
 https://cdn-1.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Manchete_M_logo.svg/1200px-Manchete_M_logo.svg.png", TV Manchete
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/EsWzLG6.png" background="#000099", TV Nova Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2438" name="REDE BRASIL" logo="https://digitalapi.sky.com.br/logos/channels/17.png" size="Small", Rede Brasil
+#EXTINF:0 type="stream" channelId="2438" name="REDE BRASIL" logo="https://i.imgur.com/qWEu7Z7.png" size="Small" background="#6666cc", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2571" name="SBT" logo="https://digitalapi.sky.com.br/logos/channels/9.png", SBT HD
+#EXTINF:0 type="stream" channelId="2571" name="SBT" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#ba0043", SBT HD
 http://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="2892" name="GLOBO SP" logo="https://digitalapi.sky.com.br/logos/channels/5.png", Globo HD
+#EXTINF:0 type="stream" channelId="2892" name="GLOBO SP" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#006f83", Globo HD
 https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" channelId="2562" name="Record" logo="https://digitalapi.sky.com.br/logos/channels/7.png", Record HD
+#EXTINF:0 type="stream" channelId="2562" name="Record" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#828282", Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:0 type="stream" channelId="2563" name="BAND HD" logo="https://digitalapi.sky.com.br/logos/channels/13.png", Bandeirantes HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/index.m3u8
+#EXTINF:0 type="stream" channelId="2563" name="BAND HD" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#333333", Band
+http://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="REDE TV" logo="https://digitalapi.sky.com.br/logos/channels/15.png", Rede TV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-#EXTINF:0 type="stream" channelId="2437" name="TV Gazeta" logo="https://i.imgur.com/MAMGt7I.png", TV Gazeta
+#EXTINF:0 type="stream" channelId="2437" x-tvg-url="https://meuguia.tv/" name="TV Gazeta" logo="https://i.imgur.com/MAMGt7I.png", TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV America Mix
 https://novo.bitstreaming.info:1936/tvamericamix/tvamericamix/chunklist.m3u8
@@ -199,4 +199,7 @@ http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 type="stream" channelId="-1" name="The Pet Collective" logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png", The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTINF:0 type="stream" channelId="2561", Globo News
+http://b5.vc:80/moises0324/xDJkC/72000
+#EXTINF:0 type="stream" channelId="2893", Globo News HD
+http://b5.vc:80/moises0324/xDJkC/71999

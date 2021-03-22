@@ -17,8 +17,10 @@ http://udq.me:80/live/pf5YN/8uDFB/13197.m3u8
 https://cdn-1.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 #EXTINF: -1 group-title="Canais Abertos", SBT FHD
 http://udq.me:80/live/pf5YN/8uDFB/13180.m3u8
-#EXTINF: -1 group-title="Canais Abertos", size="Medium" background="#006f83", Globo HD
+#EXTINF: -1 group-title="Canais Abertos", Globo HD
 http://udq.me:80/live/pf5YN/8uDFB/1702.m3u8
+#EXTINF:0 type="stream" channelId="2432" group="Canais Abertos", Globo (TV TEM)
+https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="Canais Abertos", Record FHD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF: -1 group-title="Canais Abertos", Band FHD

@@ -1,299 +1,363 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#000000", SBT HD
-https://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX_01/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#000000", Globo HD
-https://origin-02.nxplay.com.br/globo-sp_2z/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#000000", Record HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#000000", Band HD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/VjomuVR.png" background="#000000", TV Cultura HD
-https://cdn-1.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/pRVNFVy.png" background="#000000", Rede Metrópole HD
-https://cdn-1.nxplay.com.br/METROPOLE/video.m3u8
-#EXTINF:0 type="stream" channelId="2437" logo="https://i.imgur.com/LDUfZ2d.png" background="#000000", TV Gazeta
-https://cdn-1.nxplay.com.br/TV_GAZETA_NX/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png" background="#000000", TV Max
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/FrA4MLk.jpg" background="#000000", Brazi TV
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="2436" logo="https://i.imgur.com/a2yP1ox.png" background="#000000", Rede TV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/0/0f/LogoTVWA.png" background="#000000", TV Walter Abrahão
-https://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="4647" logo="https://i.imgur.com/BMxBnSM.png" background="#000000", CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:0 type="stream" channelId="2456" logo="blob:https://imgur.com/62e6c219-7a18-495d-9355-70525da65289" background="#000000", Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:0 type="stream" channelId="2573" background="#000000", Band News
-https://cdn-1.nxplay.com.br/BAND_NEWS_NXPLAY/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="2013" logo="https://i.imgur.com/NpiBUZg.png" background="#000000", CBN SP
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0 type="stream" channelId="2575" logo="https://i.imgur.com/hqcvu08.png" background="#000000", Band Sports HD
-http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/index.m3u8
-#EXTINF:0 type="stream" channelId="1263" logo="https://i.imgur.com/GhRs1w2.png" background="#000000", ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="2578" logo="https://i.imgur.com/jlzKXCn.png" background="#000000", ESPN Brasil
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="3746" logo="https://i.imgur.com/5RujMNt.png" background="#000000", ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="4657" logo="https://i.imgur.com/peGQ8Nt.png" background="#000000", ESPN Extra
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
-#EXTINF:0 type="stream" channelId="2897" logo="https://i.ibb.co/Rv3pNrH/sportv.png" background="#000000", SporTV HD
-http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2898" logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" background="#000000", SporTV 2 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2601" logo="https://i.ibb.co/G7wwzFS/sportv3.png" background="#000000", SporTV 3 HD
-http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" background="#000000", TNT Sports 1
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_4/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" background="#000000", TNT Sports 2
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_5/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" background="#000000", TNT Sports 3
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_6/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" background="#000000", TNT Sports 4
-http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_7/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/1GtVCVs/tnt-sports-logo.png" background="#000000", TNT Sports Originais
-http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere Clubes
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 2 HD
-http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 3 HD
-http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 4 HD
-http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 5 HD
-http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 6 HD
-http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/nb8dcZZ/premiere.png" background="#000000", Premiere 7 HD
-http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.wixstatic.com/media/ad6cfb_aeb2ca4f72684259a9a175cc9d3eab99~mv2_d_2782_2702_s_4_2.png/v1/fill/w_83,h_79,al_c,q_85,usm_0.66_1.00_0.01/Logo_nova_ALLSPORTS.webp" background="#000000", All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="2595" logo="https://i.ibb.co/HzWqMFR/combate.png" background="#000000", Combate HD
-http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2617" logo="https://loga.net.br/wp-content/uploads/2020/03/65_Woohoo.png" background="#000000", WooHoo
-https://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="2633" background="#000000", FishTV
-https://cdn-1.nxplay.com.br/FISH_TV_NX/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/KEecKvP.jpg" background="#000000", Loading
-https://cdn-1.nxplay.com.br/IDEAL_TV_HD_01/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/uv69yHq.png" background="#000000", Yeeaah
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1191" logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=1024" background="#000000", Comedy Central HD
-https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY_1/index.m3u8
-#EXTINF:0 type="stream" channelId="2590" logo="https://i.imgur.com/ve0OwGr.png" background="#000000", Multishow HD
-http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1484" logo="https://i.imgur.com/qfBE7sL.png?1" background="#000000", MTV HD
-https://cdn-1.nxplay.com.br/MTV_BR_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png" background="#000000", MTV 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png" background="#000000", MTV Are you the One?
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.ggpht.com/ytc/AAUvwng43LChBCdatoXpiIfgyr7I2_Z3uc72icFNuSvl=s900-c-k-c0x00ffffff-no-rj" background="#000000", PixTV
-https://tmwpix.com:7007/pix/pixtv_hi.m3u8
-#EXTINF:0 type="stream" channelId="237" logo="https://i.imgur.com/1dUYxdI.png" background="#000000", MTV LIVE HD
-https://origin-02.nxplay.com.br/MTVNI_HD_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/aPnRPrx.png" background="#000000", Canal Hitts
-https://cdn-1.nxplay.com.br/HITTS/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://sbnradio.com/wp-content/uploads/2021/03/Classic-Hits-Logo-Transparent.png" background="#000000", Classic Hits
-https://cdn-1.nxplay.com.br/classichit/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/rb8wvmv/musicboxbrazil.png" background="#000000", Music Box Brazil HD
-http://lb.kstream.org/aovivo/HD_MUSIC_BOX_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TBS_logo_2005.svg/revision/latest/scale-to-width-down/340?cb=20180505150950.png" background="#000000", TBS Brasil HD
-https://origin-02.nxplay.com.br/TBS/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/9RP92QX.png" background="#000000", Mundo TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/5rp1PW0/lifetime.png" background="#000000", Lifetime HD
-http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" background="#000000", Tastemade
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png" background="#000000", FailArmy
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png" background="#000000", The Pet Collective
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png" background="#000000", People are Awesome
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png" background="#000000", Bucana TV Investigação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png" background="#000000", Bucana TV Vida Real
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="2593" logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" background="#000000", Prime Box Brazil HD
-https://cdn-1.nxplay.com.br/PRIME_HD/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="281" logo="https://media-exp1.licdn.com/dms/image/C560BAQHM0JCEb1Q7vQ/company-logo_200_200/0/1519872721988?e=2159024400&v=beta&t=4yR7P74CoF3OHa3XVZ1zyLEER-ATU5D5fm09k39uRAI" background="#000000", FashionTV HD
-https://cdn-1.nxplay.com.br/FASHIONONE_HD/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png" background="#000000", Fashionbox
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png" background="#000000", Paramount+ Apresenta
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="4036" logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/PARHD/large_white.png?auto=webp" background="#000000", Paramount Network HD
-https://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" background="#000000", Bucana TV Séries
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="2147" background="#000000", Studio Universal HD
-http://lb.kstream.org/aovivo/HD_STUDIO_UNIVERSAL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2501" background="#000000", AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/jRzKhty/warnerchannel.png" background="#000000", Warner Channel HD
-http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/rFxKrFQ/sony.png" background="#000000", Sony HD
-http://lb.kstream.org/aovivo/HD_SONY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" background="#000000", Cine Sucessos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" background="#000000", Cine Ação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" background="#000000", Cine Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" background="#000000", Cine Comédia
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" background="#000000", Cine Suspense
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" background="#000000", Cine Terror
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" background="#000000", Cine Família
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" background="#000000", CIne Filmes Nacionais
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="3545" logo="https://i.ibb.co/jgP3J7r/tcm.png" background="#000000", TCM HD
-http://lb.kstream.org/aovivo/HD_TCM/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2572" background="#000000", Arte1
-https://cdn-1.nxplay.com.br/ARTE1_NX/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" background="#000000", Film & Arts
-https://cdn-1.nxplay.com.br/Film_Arts_Brasil/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="2576" logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" background="#000000", Canal Brasil HD
-http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2246" logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" background="#000000", AXN HD
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2888" logo="https://i.ibb.co/qCx1SLY/cinemax.png" background="#000000", Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/3pc26zL/syfy2018.png" background="#000000", Syfy HD
-http://lb.kstream.org/aovivo/HD_SYFY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="1304" logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg" background="#000000", FX HD
-http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/7tz9V3n/hbo.png" background="#000000", HBO HD
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="935" logo="https://i.ibb.co/YBJqynj/hbo2b.pn" background="#000000", HBO 2 HD
-http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/kxNkVc1/hbofamily.png" background="#000000", HBO Family HD
-http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/VYgSSN1/hbomundib.png" background="#000000", HBO Mundi HD
-http://lb.kstream.org/aovivo/HD_HBO_MUNDI/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/BjbCJQt/hbopopb.png" background="#000000", HBO Pop HD
-http://lb.kstream.org/aovivo/HD_HBO_POP/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/JHzz2yN/hboplus.png" background="#000000", HBO Plus HD
-http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" background="#000000", HBO Signature HD
-http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/B417Vxd/hboxtremeb.png" background="#000000", HBO Xtreme HD
-http://lb.kstream.org/aovivo/HD_HBO_XTREME/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/s5F3q50/Star-Channel-2020.png" background="#000000", Star Channel HD
-http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" background="#000000", Star Premium 1
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/KqTmsRp/Star-Premium-logo.png" background="#000000", Star Premium 2
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/pwRK1xT/spacehd.png" background="#000000", Space HD
-http://lb.kstream.org/aovivo/HD_SPACE/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/Vtq0pNb/megapixb.png" background="#000000", Megapix HD
-http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/RPgYRF4/primeboxbrazil.png" background="#000000", Primebox Brasil HD
-http://lb.kstream.org/aovivo/HD_PRIMEBOX_BRASIL/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/BLmwXmN/tnt.png" background="#000000", TNT HD
-http://lb.kstream.org/aovivo/HD_TNT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/KVMQPWv/tntseries.png" background="#000000", TNT Series HD
-http://lb.kstream.org/aovivo/HD_TNT_SERIES/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Premium HD
-http://lb.kstream.org/aovivo/HD_TC_PREMIUM/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Action HD
-http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Touch HD
-http://lb.kstream.org/aovivo/HD_TC_TOUCH/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Fun HD
-http://lb.kstream.org/aovivo/HD_TC_FUN/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Pipoca HD
-http://lb.kstream.org/aovivo/HD_TC_PIPOCA/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="-1" background="#000000", Telecine Cult HD
-http://lb.kstream.org/aovivo/HD_TC_CULT/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:0 type="stream" channelId="2466" logo="https://i.imgur.com/RMYerXY.png" background="#000000", TV Brasil HD
+#EXTINF:0 type="stream" channelId="-1" name="Pluto.TV" group="Canais Abertos" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Small" background="#000000", Bucana TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1", Bucana TV Premium
+https://raw.githubusercontent.com/samuel38037/IPTV-Canais.m3u/main/Iptv2.m3u
+#EXTINF:0 type="stream" channelId="2466" name="Tvbrasil.br" group="Canais Abertos" logo="https://i.imgur.com/RMYerXY.png" background="#115628", TV Brasil
 https://cdn-1.nxplay.com.br/TV_BRASIL_NX/video.m3u8
-#EXTINF:0 type="stream" channelId="2624" logo="https://cdn.mitvstatic.com/channels/br_sesctv_m.png" background="#000000", Sesc TV
-https://cdn-1.nxplay.com.br/SESC_TV/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png" background="#000000", Bucana TV Natureza
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.wixstatic.com/media/941605_9d4625dbcafd4b34be5ff91691dd5e7f~mv2.png/v1/fill/w_103,h_102,fp_0.50_0.50/941605_9d4625dbcafd4b34be5ff91691dd5e7f~mv2.png" background="#000000", Animnature
-http://200.194.238.236:5000/play/a006/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" background="#000000", Bucana TV Kids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png" background="#000000", Bucana TV Junior
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png" background="#000000", Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png" background="#000000", O Reino Infantil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://s3.amazonaws.com/playkids-blog-assets/wp-content/uploads/2020/07/10132345/logo-playkids.png" background="#000000", Play Kids HD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
-#EXTINF:0 type="stream" channelId="2908" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" background="#000000", Zoomoo HD
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="2710" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" background="#000000", Nick Jr. HD
-https://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png" background="#000000", Nick Jr. Club
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="334" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" background="#000000", Nickelodeon HD
-https://cdn-1.nxplay.com.br/NICK_BR_HD_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png" aspect-ratio="16:9" background="#000000", Nick Clássico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="2720" logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/1000?cb=20200320115508" background="#000000", Disney Channel HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
-#EXTINF:0 type="stream" channelId="2258" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" background="#000000", Disney XD HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
-#EXTINF:0 type="stream" channelId="3331" logo="https://lh3.googleusercontent.com/proxy/sl4G1I7mfF7AqlxltG9s_qDmk_CAoj3lPFEQ9kSxrAKpvrdBIDfm9BrXG_PgfZLYaOHzaXJYOZGaM6m_eE7-Yx6fGR2xuLx8heCEtgGRSOWXpYMHv5QtBPXJEQ" background="#000000", Disney Junior HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="blob:https://imgur.com/8f85e059-b767-47f0-bbd0-082ac277f69a" background="#000000", Retrô Cartoon
-http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" background="#000000", Bucana TV Anime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/EsWzLG6.png" background="#000000", TV Nova Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://istv.com.br/atributos/imagens/global/istv-logo.png" background="#000000", ISTV
-https://stmv1.voxtvhd.com.br/istv/istv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://lh3.googleusercontent.com/proxy/KBSbigLWvUsFBsoy3aF_FGmcOMTrsDH6RT8uDDTHPlxiv62iZGmKg7mT5aimh09wgMWGlNt5eGzrKR9Xz_7nl0rejK1noHG2c5ZkvARg4esLvLTydtTdbSDsmCHIammH" background="#000000", Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png" background="#000000", Bucana TV Retrô
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/qWEu7Z7.png" background="#000000", Rede Brasil
+#EXTINF:0 type="stream" channelId="2566" name="TV CÂMARA" group="Canais Abertos" logo="https://i.imgur.com/ORILxli.png" size="Small" background="#127b81", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
+#EXTINF:0 type="stream" channelId="2567" group="Canais Abertos", TV Senado
+http://udq.me:80/live/Wk7K3/KgpMU/52464.m3u8
+#EXTINF:0 type="stream" channelId="2570" group="Canais Abertos", TV Justiça
+http://udq.me:80/live/Wk7K3/KgpMU/102640.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/pRVNFVy.png" background="#c008c6", Rede Metrópole
+https://cdn-1.nxplay.com.br/METROPOLE/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="REDE BRASIL" group="Canais Abertos" logo="https://i.imgur.com/qWEu7Z7.png" size="Small" background="#6666cc", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://sollutio.net/img/img/canais-abertos/tv-comunitaria.png" background="#000000", Canal COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/5VtLILS.png" background="#000000", Conectv
-https://origin-02.nxplay.com.br/CONECT_TV/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://agromais.band.uol.com.br/assets/images/logo_agro.png" background="#000000", Agromais
-https://cdn-1.nxplay.com.br/AGROMAIS_HD/index.m3u8
-#EXTINF:0 type="stream" channelId="5067" logo="https://image.ibb.co/f2grk8/Agro_Brasil_TV.png" background="#000000", Agro Brasil
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2630" logo="https://varzea-net.com.br/assets/images/canais/canal-boi-logo.png" background="#000000", Canal do Boi
-https://cdn-1.nxplay.com.br/CANAL_DO_BOI_NX/index.m3u8
-#EXTINF:0 type="stream" channelId="2564" logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" background="#000000", Terra Viva
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2609" logo="https://i.imgur.com/QB4AoSG.png" background="#000000", Novo Tempo
-https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8
-#EXTINF:0 type="stream" channelId="2448" logo="https://i.imgur.com/nNUoXp4.png" background="#000000", TV Aparecida
-https://cdn-1.nxplay.com.br/TV_APARECIDA/index.m3u8
-#EXTINF:0 type="stream" channelId="2451" logo="https://i.imgur.com/spwcMJ5.png" background="#000000", Rede Vida
-https://cdn-1.nxplay.com.br/REDE_VIDA/index.m3u8
-#EXTINF:0 type="stream" channelId="2449" logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" background="#000000", Canção Nova
-https://cdn-1.nxplay.com.br/CANCAO_NOVA_01/video.m3u8?token=
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/FecmCJp.png" background="#000000", Pai Eterno
-https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/index.m3u8
-#EXTINF:0 type="stream" channelId="2446" logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" background="#000000", Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="5077" logo="https://i2.wp.com/www.estadoemfoco.com.br/wp-content/uploads/2015/08/rede-super.jpg?fit=%2C" background="#000000", Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" background="#000000", TV Evangelizar
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/jXBUVhr.png" background="#000000", Gospel Music
+#EXTINF:0 type="stream" channelId="2467" name="TV CULTURA" group="Canais Abertos" logo="https://i.imgur.com/WBBNflG.png" background="#33cc66", TV Cultura
+https://cdn-1.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+#EXTINF:0 type="stream" channelId="2571" name="SBT" group="Canais Abertos" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#ba0043", SBT HD
+http://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2892" name="GLOBO SP" group="Canais Abertos" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#006f83", Globo HD
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts
+#EXTINF:0 type="stream" channelId="2562" name="Record" group="Canais Abertos" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#828282", Record HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:0 type="stream" channelId="2563" name="BAND HD" group="Canais Abertos" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#333333", Band
+http://udq.me:80/live/Wk7K3/KgpMU/13184.m3u8
+#EXTINF:0 type="stream" channelId="2432" group="Canais Abertos", Globo (TV TEM)
+https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2454" group="Canais Abertos", Futura
+http://udq.me:80/live/Wk7K3/KgpMU/52472.m3u8
+#EXTINF:0 type="stream" channelId="2569", TV Escola
+http://udq.me:80/live/Wk7K3/KgpMU/52470.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/6QcsihL.jpg" background="#000000", Central TV
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2436" name="REDE TV" group="Canais Abertos" background="#d3d924", RedeTV! HD
+http://udq.me:80/live/Wk7K3/KgpMU/13188.m3u8
+#EXTINF:0 type="stream" channelId="2437" name="TV Gazeta" group="Canais Abertos" logo="https://i.imgur.com/MAMGt7I.png" background="#4b5557", TV Gazeta
+http://udq.me:80/live/Wk7K3/KgpMU/13200.m3u8
+#EXTINF:0 type="stream" channelId="2599" group="Esportes" background="#005920", SporTV HD
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
+#EXTINF:0 type="stream" channelId="2600" group="Esportes" background="#005930", SporTV 2 HD
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
+#EXTINF:0 type="stream" channelId="2601" group="Esportes" background="#005945", SporTV 3 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
+#EXTINF:0 type="stream" channelId="2893" group="Notícias" background="#360300", Globo News HD
+http://udq.me:80/live/Wk7K3/KgpMU/1363.m3u8
+#EXTINF:0 type="stream" channelId="2594" group="Músicas" background="#b33ba7", Canal OFF HD
+http://udq.me:80/live/Wk7K3/KgpMU/4460.m3u8
+#EXTINF:0 type="stream" channelId="2722" group="Variedades" background="#cf0057", GNT HD
+http://srvx.io:80/live/7885037935/fireurl.co/72102.ts
+#EXTINF:0 type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow HD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2616" group="Clássicos" background="#5d4652", VIva
+http://udq.me:80/live/Wk7K3/KgpMU/13277.m3u8
+#EXTINF:0 type="stream" channelId="2580" group="Variedades" background="#8b2e4c", Mais Globosat
+http://udq.me:80/live/Wk7K3/KgpMU/13263.m3u8
+#EXTINF:0 type="stream" channelId="1040" group="Variedades" background="#6c6c6c", TLC HD
+http://srvx.io:80/live/7885037935/fireurl.co/71900.ts
+#EXTINF:0 type="stream" channelId="3124" group="Variedades" background="#ff0018", E! HD
+http://udq.me:80/live/Wk7K3/KgpMU/13249.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MTV Are you the One?" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png" background="#f100ff", MTV Are you the One?
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Retrô" group="Clássicos" logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png" background="#2e898b", Bucana TV Retrô
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" group="Clássicos" logo="https://i.imgur.com/iQ5Umwj.jpg" background="#000000", Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Clássicos" background="#00ba53", ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Clássicos" background="#007eba", Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Os Três Patetas" group="Clássicos" logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/solidLogoPNG.png" background="rgba(113,30,9,0.43)", Os Três Patetas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2572" group="Variedades" background="rgba(126,0,0,1)", Arte 1
+http://srvx.io:80/live/7885037935/fireurl.co/71777.ts
+#EXTINF:0 type="stream" channelId="1720" group="Culinária" background="rgba(158,45,45,0.63)", Food Network HD
+http://srvx.io:80/live/7885037935/fireurl.co/71932.ts
+#EXTINF:0 type="stream" channelId="-1" name="Tastemade" group="Culinária" logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" background="rgba(216,102,2,0.63)", Tastemade
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida", Star Life HD
+http://srvx.io:80/live/7885037935/fireurl.co/71939.ts
+#EXTINF:0 type="stream" channelId="2620" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/85.png", Discovery Home & Health
+http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
+#EXTINF:0 type="stream" channelId="-1" name="People are Awesome" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png", People are Awesome
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Vida Real" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png", Bucana TV Vida Real
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="The Pet Collective" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png", The Pet Collective
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2577" group="Variedades", Curta!
+http://srvx.io:80/live/7885037935/fireurl.co/71855.ts
+#EXTINF:0 type="stream" channelId="2633" group="Estilo de Vida", Fish TV
+http://srvx.io:80/live/7885037935/fireurl.co/71928.ts
+#EXTINF:0 type="stream" channelId="1418" group="Estilo de Vida", HGTV
+http://udq.me:80/live/Wk7K3/KgpMU/13131.m3u8
+#EXTINF:0 type="stream" channelId="2617" group="Músicas", WooHoo
+http://udq.me:80/live/Wk7K3/KgpMU/13280.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Fashionbox" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png", Fashionbox
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" group="Variedades" logo="https://i.imgur.com/Cj6kg2X.png", Brazi TV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/197.png" tvg-country="BR", ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
+#EXTINF:0 type="stream" channelId="2578" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/198.png" tvg-country="BR", ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
+#EXTINF:0 type="stream" channelId="3746" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/599.png" tvg-country="BR", ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/600.png" tvg-country="BR", ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
+#EXTINF:0 type="stream" channelId="1329" group="Esportes" tvg-country="BR", Fox Sports
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
+#EXTINF:0 type="stream" channelId="170" group="Esportes" tvg-country="BR", Fox Sports 2
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
+#EXTINF:0 type="stream" channelId="2574" group="Esportes", Band Sports
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2575" group="Esportes", Band Sports HD
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/16.png" background="#ff6200", Loading
+https://centurylink.br.cdn.booyah.live/hls/1000022/master_34850987.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Estilo de Vida" logo="https://i.imgur.com/paXZTMj.png", Yeeaah
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4647" group="Notícias" logo="https://i.imgur.com/c0pR6LU.jpg", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:0 type="stream" channelId="2456" group="Notícias" logo="https://digitalapi.sky.com.br/logos/channels/19.png", Record News HD
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="2573" group="Notícias", Band News
+http://udq.me:80/live/Wk7K3/KgpMU/1506.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Notícias" logo="https://i.imgur.com/Vs3B9Ie.png", CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0 type="stream" channelId="207" group="Documentários", National Geographic Channel HD
+http://udq.me:80/live/Wk7K3/KgpMU/13155.m3u8
+#EXTINF:0 type="stream" channelId="341" group="Documentários", Discovery HD
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
+#EXTINF:0 type="stream" channelId="2558" group="Documentários", Discovery Theater HD
+http://srvx.io:80/live/7885037935/fireurl.co/71879.ts
+#EXTINF:0 type="stream" channelId="2890" group="Estilo de Vida", Discovery World HD
+http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
+#EXTINF:0 type="stream" channelId="240" group="Documentários", Animal Planet HD
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Natureza" group="Documentários" logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png", Bucana TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" group="Documentários", AnimNature
+http://200.194.238.236:5000/play/a006/index.m3u8
+#EXTINF:0 type="stream" channelId="1456" group="Documentários", History HD
+http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
+#EXTINF:0 type="stream" channelId="1202" group="Documentários", H2 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
+#EXTINF:0 type="stream" channelId="2840" group="Estilo de Vida", Discovery Turbo HD
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
+#EXTINF:0 type="stream" channelId="1508" group="Documentários", Discovery Science HD
+http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
+#EXTINF:0 type="stream" channelId="206" group="Documentários", Nat Geo Wild HD
+http://udq.me:80/live/Wk7K3/KgpMU/13152.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Kids" group="Infantil" logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" size="Small", Bucana TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="3778" group="Infantil", Nat Geo Kids
+http://udq.me:80/live/Wk7K3/KgpMU/12952.m3u8
+#EXTINF:0 type="stream" channelId="2581" group="Infantil" size="Small", Gloob HD
+http://udq.me:80/live/Wk7K3/KgpMU/12946.m3u8
+#EXTINF:0 type="stream" channelId="2837" group="Infantil", Discovery Kids HD
+http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
+#EXTINF:0 type="stream" channelId="2720" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/55.png", Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Infantil", Nickelodeon
+http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="334" group="Infantil", Nickelodeon HD
+http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Nick Clássico" group="Infantil" logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png", Nick Clássico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2719" group="Infantil", Cartoon Network HD
+http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
+#EXTINF:0 type="stream" channelId="2258" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/53.png" aspect-ratio="16:9", Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
+#EXTINF:0 type="stream" channelId="3331" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/459.png", Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
+#EXTINF:0 type="stream" channelId="322" group="Infantil", Nick Jr.
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2710" group="Infantil", Nick Jr. HD
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Nick Jr. Club" group="Infantil" logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png", Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="3330" group="Infantil", Boomerang HD
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
+#EXTINF:0 type="stream" channelId="-1" group="Infantil", RA TIM BUM HD
+http://udq.me:80/live/Wk7K3/KgpMU/12965.m3u8
+#EXTINF:0 type="stream" channelId="2639" group="Infantil", Tooncast
+http://udq.me:80/live/Wk7K3/KgpMU/102646.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil", Play Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
+#EXTINF:0 type="stream" channelId="473" group="Infantil", Baby TV
+http://udq.me:80/live/Wk7K3/KgpMU/102681.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="O Reino Infantil" group="Infantil" logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png", O Reino Infantil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2410" name="Babyfirst" group="Infantil" logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png", Babyfirst
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Junior" group="Infantil" logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png" size="Small", Bucana TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2908" group="Infantil", Zoomoo HD
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="A vida moderna de Rocko" group="Infantil" logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/solidLogoPNG.png", A vida moderna de Rocko
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Turma da Mônica" group="Infantil" logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/solidLogoPNG.png", Turma da Mônica
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="As  Pistas de Blue" group="Infantil" logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/solidLogoPNG.png", As  Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.imgur.com/EsWzLG6.png" background="#000099", TV Nova Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="http://i.imgur.com/me7Ae0Q.png", Retrô Cartoon
+http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Anime" group="Infantil" logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" size="Small", Bucana TV Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Naruto" group="Infantil" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2718" group="Músicas", Bis HD
+http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
+#EXTINF:0 type="stream" channelId="-1" group="Músicas", MTV
+http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Músicas", MTV HD
+https://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2l2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MTV Pluto TV" group="Músicas" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png", MTV Bucana TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2591" group="Músicas", Music Box Brazil
+http://udq.me:80/live/Wk7K3/KgpMU/13678.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Músicas", MTV Live
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v2a1a2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Músicas", MTV Live HD
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Músicas", Vibee TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2147" group="Filmes e Séries", Studio Universal TV HD
+http://udq.me:80/live/Wk7K3/KgpMU/22671.m3u8
+#EXTINF:0 type="stream" channelId="2749" group="Filmes e Séries" size="Small", Star Channel HD
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
+#EXTINF:0 type="stream" channelId="2604" group="Filmes e Séries", Star Hits HD
+http://srvx.io:80/live/7885037935/fireurl.co/71943.ts
+#EXTINF:0 type="stream" channelId="2607" group="Filmes e Séries", Star Hits 2 HD
+http://srvx.io:80/live/7885037935/fireurl.co/71947.ts
+#EXTINF:0 type="stream" channelId="2903" group="Filmes e Séries", Warner HD
+http://udq.me:80/live/Wk7K3/KgpMU/22666.m3u8
+#EXTINF:0 type="stream" channelId="530" group="Filmes e Séries", Sony Channel HD
+http://udq.me:80/live/Wk7K3/KgpMU/22690.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="Filmes e Séries", FX HD
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
+#EXTINF:0 type="stream" channelId="2246" group="Filmes e Séries", AXN HD
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
+#EXTINF:0 type="stream" channelId="2602" group="Filmes e Séries" tvg-country="BR", TBS Brasil
+https://origin-02.nxplay.com.br/TBS/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2602" group="Filmes e Séries", TBS Brasil HD
+https://origin-02.nxplay.com.br/TBS/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="Comédia", Comedy Central
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/index.m3u8
+#EXTINF:0 type="stream" channelId="1191" group="Comédia", Comedy Central HD
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Porta dos Fundos" group="Comédia" logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png", Porta dos Fundos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="FailArmy" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png", FailArmy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2503" group="Estilo de Vida" tvg-country="br", A&E HD
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
+#EXTINF:0 type="stream" channelId="2842" group="Estilo de Vida", Investigação Discovery HD
+http://udq.me:80/live/Wk7K3/KgpMU/13149.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Investigação" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png", Bucana TV Investigação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="1192" group="Filmes e Séries", Syfy HD
+http://udq.me:80/live/Wk7K3/KgpMU/22673.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="Estilo de Vida", Lifetime
+http://udq.me:80/live/Wk7K3/KgpMU/106010.m3u8
+#EXTINF:0 type="stream" channelId="2501" group="Filmes e Séries", AMC
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
+#EXTINF:0 type="stream" channelId="-1" group="Filmes e Séries", FIlm & Arts
+http://udq.me:80/live/Wk7K3/KgpMU/13315.m3u8
+#EXTINF:0 type="stream" channelId="2576" group="Filmes e Séries", Canal Brasil HD
+http://udq.me:80/live/Wk7K3/KgpMU/52519.m3u8
+#EXTINF:0 type="stream" channelId="2900" group="Filmes e Séries", TNT
+http://udq.me:80/live/Wk7K3/KgpMU/22669.m3u8
+#EXTINF:0 type="stream" channelId="3797", TNT Series
+http://udq.me:80/live/Wk7K3/KgpMU/22668.m3u8
+#EXTINF:0 type="stream" channelId="2589" group="Filmes e Séries", Megapix HD
+http://udq.me:80/live/Wk7K3/KgpMU/22675.m3u8
+#EXTINF:0 type="stream" channelId="2896" group="Filmes e Séries", Space HD
+http://udq.me:80/live/Wk7K3/KgpMU/22672.m3u8
+#EXTINF:0 type="stream" channelId="2888" group="Filmes e Séries", Cinemax HD
+http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
+#EXTINF:0 type="stream" channelId="2593" group="Filmes e Séries", Prime Box Brazil
+http://udq.me:80/live/Wk7K3/KgpMU/13294.m3u8
+#EXTINF:0 type="stream" channelId="2147" group="Filmes e Séries", Studio Universal HD
+http://udq.me:80/live/Wk7K3/KgpMU/22671.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Paramount+ Apresenta" group="Filmes e Séries" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png", Paramount+ Apresenta
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="4036" group="Filmes e Séries" tvg-country="BR", Paramount Network HD
+https://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="895" group="Clássicos", TCM
+http://udq.me:80/live/Wk7K3/KgpMU/13292.m3u8
+#EXTINF:0 type="stream" channelId="2610" group="Filmes e Séries", Telecine Premium
+http://udq.me:80/live/Wk7K3/KgpMU/22805.m3u8
+#EXTINF:0 type="stream" channelId="2603" group="Filmes e Séries", Telecine Action
+http://udq.me:80/live/Wk7K3/KgpMU/22802.m3u8
+#EXTINF:0 type="stream" channelId="2611" group="Filmes e Séries", Telecine Touch
+http://udq.me:80/live/Wk7K3/KgpMU/22806.m3u8
+#EXTINF:0 type="stream" channelId="2606" group="Filmes e Séries", Telecine Fun
+http://udq.me:80/live/Wk7K3/KgpMU/22803.m3u8
+#EXTINF:0 type="stream" channelId="2608" group="Filmes e Séries", Telecine Pipoca
+http://udq.me:80/live/Wk7K3/KgpMU/22804.m3u8
+#EXTINF:0 type="stream" channelId="2605" group="Filmes e Séries", Telecine Cult
+http://udq.me:80/live/Wk7K3/KgpMU/22801.m3u8
+#EXTINF:0 type="stream" channelId="1330" group="Filmes e Séries", HBO HD
+http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
+#EXTINF:0 type="stream" channelId="935" group="Filmes e Séries", HBO 2
+http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
+#EXTINF:0 type="stream" channelId="2585" group="Filmes e Séries" size="Small", HBO Plus
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
+#EXTINF:0 type="stream" channelId="2584" group="Filmes e Séries", HBO Family
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
+#EXTINF:0 type="stream" channelId="2583" group="Filmes e Séries", HBO Signature
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
+#EXTINF:0 type="stream" channelId="361" group="Filmes e Séries", HBO Pop
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
+#EXTINF:0 type="stream" channelId="2725" group="Filmes e Séries", HBO Mundi
+http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
+#EXTINF:0 type="stream" channelId="2587" group="Filmes e Séries", HBO Xtreme
+http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Sucessos" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" background="#006b85", Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Ação" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" background="#a40000", Cine Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Drama" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" background="#0d6400", Cine Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Comédia" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" background="#b0b200", Cine Comédia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Filmes Suspense" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" background="#6f0066", Cine Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Terror" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" background="#000000", Cine Terror
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Cine Família" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" background="#ce0067", Cine Família
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Filmes Nacionais" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" background="#01c106", CIne Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="-1" name="Pluto TV Séries" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" size="Small" background="#652ea6", Bucana TV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="2564" group="Religioso", Terra Viva
+http://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2609" group="Religioso" logo="https://i.imgur.com/QB4AoSG.png" background="#00c712", Novo Tempo
+https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2716" group="Canais Abertos", Agro TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="2451" name="Rede Vida" group="Religioso" logo="https://i.imgur.com/spwcMJ5.png" background="#003b9b", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2449" group="Religioso" background="#dbe11a", Canção Nova HD
+http://udq.me:80/live/Wk7K3/KgpMU/105992.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/FecmCJp.png" background="#fa921f", TV Pai Eterno
+https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/video.m3u8
+#EXTINF:0 type="stream" channelId="2448" group="Religioso" logo="https://i.imgur.com/nNUoXp4.png" background="#064c76", TV Aparecida
+https://cdn-1.nxplay.com.br/TV_APARECIDA/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="2439" group="Religioso" logo="https://i.imgur.com/dvpV5HY.png" background="#035fe4", Rede CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/jXBUVhr.png" background="#464646", Gospel Music
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/Xbe0FNZ.png" aspect-ratio="16:9" background="#000000", Gospel Movie
+#EXTINF:0 type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/Xbe0FNZ.png" background="#464646", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/uLIlR4v.png" background="#000000", Gospel Cartoon
+#EXTINF:0 type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/uLIlR4v.png" background="#464646", Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8

@@ -1,565 +1,565 @@
 #EXTM3U
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto.TV" group="Canais Abertos" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Small" background="#000000", Guia de Canais (Pluto TV)
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto.TV" group="Canais Abertos" logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png" size="Small" background="#000000", Guia de Canais (Pluto TV)
 https://r.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2466" name="Tvbrasil.br" group="Canais Abertos" logo="https://i.imgur.com/RMYerXY.png" background="#115628", TV Brasil
+#EXTINF:0 retries="9999" type="stream" channelId="2466" name="Tvbrasil.br" group="Canais Abertos" logo="https://i.imgur.com/RMYerXY.png" background="#115628", TV Brasil
 type="stream" channelId="2466" name="Tvbrasil.br" group="Canais Abertos" logo="https://i.imgur.com/RMYerXY.png" background="#115628", TV Brasil
-#EXTINF:0 retries="99" type="stream" channelId="2566" name="TV CÂMARA" group="Canais Abertos" logo="https://i.imgur.com/ORILxli.png" size="Small" background="#127b81", TV Câmara
+#EXTINF:0 retries="9999" type="stream" channelId="2566" name="TV CÂMARA" group="Canais Abertos" logo="https://i.imgur.com/ORILxli.png" size="Small" background="#127b81", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?magellan
-#EXTINF:0 retries="99" type="stream" channelId="2567" group="Canais Abertos", TV Senado
+#EXTINF:0 retries="9999" type="stream" channelId="2567" group="Canais Abertos", TV Senado
 type="stream" channelId="2567" group="Canais Abertos", TV Senado
-#EXTINF:0 retries="99" type="stream" channelId="2570" group="Canais Abertos", TV Justiça
+#EXTINF:0 retries="9999" type="stream" channelId="2570" group="Canais Abertos", TV Justiça
 type="stream" channelId="2570" group="Canais Abertos", TV Justiça
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/pRVNFVy.png" background="#c008c6", Rede Metrópole
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/pRVNFVy.png" background="#c008c6", Rede Metrópole
 type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/pRVNFVy.png" background="#c008c6", Rede Metrópole
-#EXTINF:0 retries="99" type="stream" channelId="2438" name="REDE BRASIL" group="Canais Abertos" logo="https://i.imgur.com/qWEu7Z7.png" size="Small" background="#6666cc", Rede Brasil
+#EXTINF:0 retries="9999" type="stream" channelId="2438" name="REDE BRASIL" group="Canais Abertos" logo="https://i.imgur.com/qWEu7Z7.png" size="Small" background="#6666cc", Rede Brasil
 type="stream" channelId="-1" name="REDE BRASIL" group="Canais Abertos" logo="https://i.imgur.com/qWEu7Z7.png" size="Small" background="#6666cc", Rede Brasil
-#EXTINF:0 retries="99" type="stream" channelId="2467" name="TV CULTURA" group="Canais Abertos" logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/solidLogoPNG.png" background="#33cc66", TV Cultura
+#EXTINF:0 retries="9999" type="stream" channelId="2467" name="TV CULTURA" group="Canais Abertos" logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/solidLogoPNG.png" background="#33cc66", TV Cultura
 https://r.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2571" name="SBT" group="Canais Abertos" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#ba0043", SBT HD
+#EXTINF:0 retries="9999" type="stream" channelId="2571" name="SBT" group="Canais Abertos" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#ba0043", SBT HD
 type="stream" channelId="2571" name="SBT" group="Canais Abertos" logo="https://i.imgur.com/O8kcc8g.png" size="Medium" background="#ba0043", SBT HD
-#EXTINF:0 retries="99" type="stream" channelId="2892" name="GLOBO SP" group="Canais Abertos" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#006f83", Globo HD
+#EXTINF:0 retries="9999" type="stream" channelId="2892" name="GLOBO SP" group="Canais Abertos" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#006f83", Globo HD
 type="stream" channelId="2892" name="GLOBO SP" group="Canais Abertos" logo="https://i.imgur.com/LbCRXaO.png" size="Medium" background="#006f83", Globo HD
-#EXTINF:0 retries="99" type="stream" channelId="2562" name="Record" group="Canais Abertos" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#828282", Record HD
+#EXTINF:0 retries="9999" type="stream" channelId="2562" name="Record" group="Canais Abertos" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#828282", Record HD
 type="stream" channelId="2562" name="Record" group="Canais Abertos" logo="https://i.imgur.com/IjInhrx.png" size="Medium" background="#828282", Record HD
-#EXTINF:0 retries="99" type="stream" channelId="2563" name="BAND HD" group="Canais Abertos" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#333333", Band
+#EXTINF:0 retries="9999" type="stream" channelId="2563" name="BAND HD" group="Canais Abertos" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#333333", Band
 type="stream" channelId="2563" name="BAND HD" group="Canais Abertos" logo="https://i.imgur.com/MFYCbg9.png" size="Medium" background="#333333", Band
-#EXTINF:0 retries="99" type="stream" channelId="2432" group="Canais Abertos", Globo (TV TEM)
+#EXTINF:0 retries="9999" type="stream" channelId="2432" group="Canais Abertos", Globo (TV TEM)
 type="stream" channelId="2432" group="Canais Abertos", Globo (TV TEM)
-#EXTINF:0 retries="99" type="stream" channelId="2454" group="Canais Abertos", Futura
+#EXTINF:0 retries="9999" type="stream" channelId="2454" group="Canais Abertos", Futura
 type="stream" channelId="2454" group="Canais Abertos", Futura
-#EXTINF:0 retries="99" type="stream" channelId="2569", TV Escola
+#EXTINF:0 retries="9999" type="stream" channelId="2569", TV Escola
 type="stream" channelId="2569", TV Escola
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/6QcsihL.jpg" background="#000000", Central TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/6QcsihL.jpg" background="#000000", Central TV
 type="stream" channelId="-1" group="Canais Abertos" logo="https://i.imgur.com/6QcsihL.jpg" background="#000000", Central TV
-#EXTINF:0 retries="99" type="stream" channelId="2436" name="REDE TV" group="Canais Abertos" background="#d3d924", RedeTV! HD
+#EXTINF:0 retries="9999" type="stream" channelId="2436" name="REDE TV" group="Canais Abertos" background="#d3d924", RedeTV! HD
 https://r.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2437" name="TV Gazeta" group="Canais Abertos" logo="https://i.imgur.com/MAMGt7I.png" background="#4b5557", TV Gazeta
+#EXTINF:0 retries="9999" type="stream" channelId="2437" name="TV Gazeta" group="Canais Abertos" logo="https://i.imgur.com/MAMGt7I.png" background="#4b5557", TV Gazeta
 type="stream" channelId="2437" name="TV Gazeta" group="Canais Abertos" logo="https://i.imgur.com/MAMGt7I.png" background="#4b5557", TV Gazeta
-#EXTINF:0 retries="99" type="stream" channelId="2599" group="Esportes" background="#005920", SporTV HD
+#EXTINF:0 retries="9999" type="stream" channelId="2599" group="Esportes" background="#005920", SporTV HD
 type="stream" channelId="2599" group="Esportes" background="#005920", SporTV HD
-#EXTINF:0 retries="99" type="stream" channelId="2600" group="Esportes" background="#005930", SporTV 2 HD
+#EXTINF:0 retries="9999" type="stream" channelId="2600" group="Esportes" background="#005930", SporTV 2 HD
 type="stream" channelId="2600" group="Esportes" background="#005930", SporTV 2 HD
-#EXTINF:0 retries="99" type="stream" channelId="2601" group="Esportes" background="#005945", SporTV 3 HD
+#EXTINF:0 retries="9999" type="stream" channelId="2601" group="Esportes" background="#005945", SporTV 3 HD
 type="stream" channelId="2601" group="Esportes" background="#005945", SporTV 3 HD
-#EXTINF:0 retries="99" type="stream" channelId="2893" group="Notícias" background="#360300", Globo News HD
+#EXTINF:0 retries="9999" type="stream" channelId="2893" group="Notícias" background="#360300", Globo News HD
 type="stream" channelId="2893" group="Notícias" background="#360300", Globo News HD
-#EXTINF:0 retries="99" type="stream" channelId="2594" group="Músicas" background="#b33ba7", Canal OFF HD
+#EXTINF:0 retries="9999" type="stream" channelId="2594" group="Músicas" background="#b33ba7", Canal OFF HD
 type="stream" channelId="2594" group="Músicas" background="#b33ba7", Canal OFF HD
-#EXTINF:0 retries="99" type="stream" channelId="2722" group="Variedades" background="#cf0057", GNT HD
+#EXTINF:0 retries="9999" type="stream" channelId="2722" group="Variedades" background="#cf0057", GNT HD
 type="stream" channelId="2722" group="Variedades" background="#cf0057", GNT HD
-#EXTINF:0 retries="99" type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow
+#EXTINF:0 retries="9999" type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow
 type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow
-#EXTINF:0 retries="99" type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow HD
+#EXTINF:0 retries="9999" type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow HD
 type="stream" channelId="2590" group="Variedades" background="#a59000", Multishow HD
-#EXTINF:0 retries="99" type="stream" channelId="2616" group="Clássicos" background="#5d4652", VIva
+#EXTINF:0 retries="9999" type="stream" channelId="2616" group="Clássicos" background="#5d4652", VIva
 type="stream" channelId="2616" group="Clássicos" background="#5d4652", VIva
-#EXTINF:0 retries="99" type="stream" channelId="2580" group="Variedades" background="#8b2e4c", Mais Globosat
+#EXTINF:0 retries="9999" type="stream" channelId="2580" group="Variedades" background="#8b2e4c", Mais Globosat
 type="stream" channelId="2580" group="Variedades" background="#8b2e4c", Mais Globosat
-#EXTINF:0 retries="99" type="stream" channelId="1040" group="Variedades" background="#6c6c6c", TLC HD
+#EXTINF:0 retries="9999" type="stream" channelId="1040" group="Variedades" background="#6c6c6c", TLC HD
 type="stream" channelId="1040" group="Variedades" background="#6c6c6c", TLC HD
-#EXTINF:0 retries="99" type="stream" channelId="3124" group="Variedades" background="#ff0018", E! HD
+#EXTINF:0 retries="9999" type="stream" channelId="3124" group="Variedades" background="#ff0018", E! HD
 type="stream" channelId="3124" group="Variedades" background="#ff0018", E! HD
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="MTV Are you the One?" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png" background="#f100ff", MTV Are you the One?
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="MTV Are you the One?" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png" background="#f100ff", MTV Are you the One?
 https://r.mjh.nz/PlutoTV/5f6108d8cc331900075e98e4-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Retrô" group="Clássicos" logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png" background="#2e898b", Bucana TV Retrô
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Retrô" group="Clássicos" logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png" background="#2e898b", Bucana TV Retrô
 https://r.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Clássicos" logo="https://i.imgur.com/iQ5Umwj.jpg" background="#000000", Canal 29
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Clássicos" logo="https://i.imgur.com/iQ5Umwj.jpg" background="#000000", Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Clássicos" background="#00ba53", ISTV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Clássicos" background="#00ba53", ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Clássicos" background="#007eba", Bons Tempos TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Clássicos" background="#007eba", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Os Três Patetas" group="Clássicos" logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/solidLogoPNG.png" background="rgba(113,30,9,0.43)", Os Três Patetas
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Os Três Patetas" group="Clássicos" logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/solidLogoPNG.png" background="rgba(113,30,9,0.43)", Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="2572" group="Variedades" background="rgba(126,0,0,1)", Arte 1
+#EXTINF:0 retries="9999" type="stream" channelId="2572" group="Variedades" background="rgba(126,0,0,1)", Arte 1
 http://srvx.io:80/live/7885037935/fireurl.co/71777.ts
-#EXTINF:0 retries="99" type="stream" channelId="1720" group="Culinária" background="rgba(158,45,45,0.63)", Food Network HD
+#EXTINF:0 retries="9999" type="stream" channelId="1720" group="Culinária" background="rgba(158,45,45,0.63)", Food Network HD
 http://srvx.io:80/live/7885037935/fireurl.co/71932.ts
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Tastemade" group="Culinária" logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" background="rgba(216,102,2,0.63)", Tastemade
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Tastemade" group="Culinária" logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png" background="rgba(216,102,2,0.63)", Tastemade
 https://r.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida", Star Life HD
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida", Star Life HD
 http://srvx.io:80/live/7885037935/fireurl.co/71939.ts
-#EXTINF:0 retries="99" type="stream" channelId="2620" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/85.png", Discovery Home & Health
+#EXTINF:0 retries="9999" type="stream" channelId="2620" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/85.png", Discovery Home & Health
 http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="People are Awesome" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png", People are Awesome
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="People are Awesome" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png", People are Awesome
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Vida Real" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png", Bucana TV Vida Real
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Vida Real" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png", Bucana TV Vida Real
 https://r.mjh.nz/PlutoTV/5f32d4d9ec194100070c7449-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="The Pet Collective" group="Estilo de Vida" logo="https://r.mjh.nz/PlutoTV/5f515ebac01c0f00080e8439-alt.m3u8", The Pet Collective
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="The Pet Collective" group="Estilo de Vida" logo="https://r.mjh.nz/PlutoTV/5f515ebac01c0f00080e8439-alt.m3u8", The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="2577" group="Variedades", Curta!
+#EXTINF:0 retries="9999" type="stream" channelId="2577" group="Variedades", Curta!
 http://srvx.io:80/live/7885037935/fireurl.co/71855.ts
-#EXTINF:0 retries="99" type="stream" channelId="2633" group="Estilo de Vida", Fish TV
+#EXTINF:0 retries="9999" type="stream" channelId="2633" group="Estilo de Vida", Fish TV
 http://srvx.io:80/live/7885037935/fireurl.co/71928.ts
-#EXTINF:0 retries="99" type="stream" channelId="1418" group="Estilo de Vida", HGTV
+#EXTINF:0 retries="9999" type="stream" channelId="1418" group="Estilo de Vida", HGTV
 http://udq.me:80/live/Wk7K3/KgpMU/13131.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2617" group="Músicas", WooHoo
+#EXTINF:0 retries="9999" type="stream" channelId="2617" group="Músicas", WooHoo
 http://udq.me:80/live/Wk7K3/KgpMU/13280.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Fashionbox" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png", Fashionbox
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Fashionbox" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png", Fashionbox
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Variedades" logo="https://i.imgur.com/Cj6kg2X.png", Brazi TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Variedades" logo="https://i.imgur.com/Cj6kg2X.png", Brazi TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1263" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/197.png" tvg-country="BR", ESPN HD
+#EXTINF:0 retries="9999" type="stream" channelId="1263" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/197.png" tvg-country="BR", ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2578" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/198.png" tvg-country="BR", ESPN Brasil
+#EXTINF:0 retries="9999" type="stream" channelId="2578" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/198.png" tvg-country="BR", ESPN Brasil
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="3746" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/599.png" tvg-country="BR", ESPN 2 HD
+#EXTINF:0 retries="9999" type="stream" channelId="3746" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/599.png" tvg-country="BR", ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="4657" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/600.png" tvg-country="BR", ESPN Extra
+#EXTINF:0 retries="9999" type="stream" channelId="4657" group="Esportes" logo="https://digitalapi.sky.com.br/logos/channels/600.png" tvg-country="BR", ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1329" group="Esportes" tvg-country="BR", Fox Sports
+#EXTINF:0 retries="9999" type="stream" channelId="1329" group="Esportes" tvg-country="BR", Fox Sports
 http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
-#EXTINF:0 retries="99" type="stream" channelId="170" group="Esportes" tvg-country="BR", Fox Sports 2
+#EXTINF:0 retries="9999" type="stream" channelId="170" group="Esportes" tvg-country="BR", Fox Sports 2
 http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
-#EXTINF:0 retries="99" type="stream" channelId="2574" group="Esportes", Band Sports
+#EXTINF:0 retries="9999" type="stream" channelId="2574" group="Esportes", Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2575" group="Esportes", Band Sports HD
+#EXTINF:0 retries="9999" type="stream" channelId="2575" group="Esportes", Band Sports HD
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/16.png" background="#ff6200", Loading
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida" logo="https://digitalapi.sky.com.br/logos/channels/16.png" background="#ff6200", Loading
 https://centurylink.br.cdn.booyah.live/hls/1000022/master_34850987.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida" logo="https://i.imgur.com/paXZTMj.png", Yeeaah
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida" logo="https://i.imgur.com/paXZTMj.png", Yeeaah
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="4647" group="Notícias" logo="https://i.imgur.com/c0pR6LU.jpg", CNN Brasil
+#EXTINF:0 retries="9999" type="stream" channelId="4647" group="Notícias" logo="https://i.imgur.com/c0pR6LU.jpg", CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2456" group="Notícias" logo="https://digitalapi.sky.com.br/logos/channels/19.png", Record News HD
+#EXTINF:0 retries="9999" type="stream" channelId="2456" group="Notícias" logo="https://digitalapi.sky.com.br/logos/channels/19.png", Record News HD
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 retries="99" type="stream" channelId="2573" group="Notícias", Band News
+#EXTINF:0 retries="9999" type="stream" channelId="2573" group="Notícias", Band News
 http://udq.me:80/live/Wk7K3/KgpMU/1506.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://i.imgur.com/Vs3B9Ie.png", CBN São Paulo
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://i.imgur.com/Vs3B9Ie.png", CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="207" group="Documentários", National Geographic Channel HD
+#EXTINF:0 retries="9999" type="stream" channelId="207" group="Documentários", National Geographic Channel HD
 http://udq.me:80/live/Wk7K3/KgpMU/13155.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="341" group="Documentários", Discovery HD
+#EXTINF:0 retries="9999" type="stream" channelId="341" group="Documentários", Discovery HD
 http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
-#EXTINF:0 retries="99" type="stream" channelId="2558" group="Documentários", Discovery Theater HD
+#EXTINF:0 retries="9999" type="stream" channelId="2558" group="Documentários", Discovery Theater HD
 http://srvx.io:80/live/7885037935/fireurl.co/71879.ts
-#EXTINF:0 retries="99" type="stream" channelId="2890" group="Estilo de Vida", Discovery World HD
+#EXTINF:0 retries="9999" type="stream" channelId="2890" group="Estilo de Vida", Discovery World HD
 http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
-#EXTINF:0 retries="99" type="stream" channelId="240" group="Documentários", Animal Planet HD
+#EXTINF:0 retries="9999" type="stream" channelId="240" group="Documentários", Animal Planet HD
 http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Natureza" group="Documentários" logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png", Bucana TV Natureza
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Natureza" group="Documentários" logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png", Bucana TV Natureza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Documentários", AnimNature
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Documentários", AnimNature
 http://200.194.238.236:5000/play/a006/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1456" group="Documentários", History HD
+#EXTINF:0 retries="9999" type="stream" channelId="1456" group="Documentários", History HD
 http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
-#EXTINF:0 retries="99" type="stream" channelId="1202" group="Documentários", H2 HD
+#EXTINF:0 retries="9999" type="stream" channelId="1202" group="Documentários", H2 HD
 http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
-#EXTINF:0 retries="99" type="stream" channelId="2840" group="Estilo de Vida", Discovery Turbo HD
+#EXTINF:0 retries="9999" type="stream" channelId="2840" group="Estilo de Vida", Discovery Turbo HD
 http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
-#EXTINF:0 retries="99" type="stream" channelId="1508" group="Documentários", Discovery Science HD
+#EXTINF:0 retries="9999" type="stream" channelId="1508" group="Documentários", Discovery Science HD
 http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
-#EXTINF:0 retries="99" type="stream" channelId="206" group="Documentários", Nat Geo Wild HD
+#EXTINF:0 retries="9999" type="stream" channelId="206" group="Documentários", Nat Geo Wild HD
 http://udq.me:80/live/Wk7K3/KgpMU/13152.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Kids" group="Infantil" logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" size="Small", Bucana TV Kids
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Kids" group="Infantil" logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png" size="Small", Bucana TV Kids
 https://r.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="3778" group="Infantil", Nat Geo Kids
+#EXTINF:0 retries="9999" type="stream" channelId="3778" group="Infantil", Nat Geo Kids
 http://udq.me:80/live/Wk7K3/KgpMU/12952.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2581" group="Infantil" size="Small", Gloob HD
+#EXTINF:0 retries="9999" type="stream" channelId="2581" group="Infantil" size="Small", Gloob HD
 http://udq.me:80/live/Wk7K3/KgpMU/12946.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2837" group="Infantil", Discovery Kids HD
+#EXTINF:0 retries="9999" type="stream" channelId="2837" group="Infantil", Discovery Kids HD
 http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
-#EXTINF:0 retries="99" type="stream" channelId="2720" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/55.png", Disney Channel HD
+#EXTINF:0 retries="9999" type="stream" channelId="2720" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/55.png", Disney Channel HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="41" group="Infantil", Nickelodeon
+#EXTINF:0 retries="9999" type="stream" channelId="41" group="Infantil", Nickelodeon
 http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="334" group="Infantil", Nickelodeon HD
+#EXTINF:0 retries="9999" type="stream" channelId="334" group="Infantil", Nickelodeon HD
 http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Nick Clássico" group="Infantil" logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png", Nick Clássico
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Nick Clássico" group="Infantil" logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png", Nick Clássico
 https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2719" group="Infantil", Cartoon Network HD
+#EXTINF:0 retries="9999" type="stream" channelId="2719" group="Infantil", Cartoon Network HD
 http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
-#EXTINF:0 retries="99" type="stream" channelId="2258" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/53.png" aspect-ratio="16:9", Disney XD HD
+#EXTINF:0 retries="9999" type="stream" channelId="2258" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/53.png" aspect-ratio="16:9", Disney XD HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="3331" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/459.png", Disney Junior HD
+#EXTINF:0 retries="9999" type="stream" channelId="3331" group="Infantil" logo="https://digitalapi.sky.com.br/logos/channels/459.png", Disney Junior HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="322" group="Infantil", Nick Jr.
+#EXTINF:0 retries="9999" type="stream" channelId="322" group="Infantil", Nick Jr.
 http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2710" group="Infantil", Nick Jr. HD
+#EXTINF:0 retries="9999" type="stream" channelId="2710" group="Infantil", Nick Jr. HD
 http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Nick Jr. Club" group="Infantil" logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png", Nick Jr. Club
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Nick Jr. Club" group="Infantil" logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png", Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="3330" group="Infantil", Boomerang HD
+#EXTINF:0 retries="9999" type="stream" channelId="3330" group="Infantil", Boomerang HD
 http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil", RA TIM BUM HD
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil", RA TIM BUM HD
 http://udq.me:80/live/Wk7K3/KgpMU/12965.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2639" group="Infantil", Tooncast
+#EXTINF:0 retries="9999" type="stream" channelId="2639" group="Infantil", Tooncast
 http://udq.me:80/live/Wk7K3/KgpMU/102646.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil", Play Kids HD
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil", Play Kids HD
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/master.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="473" group="Infantil", Baby TV
+#EXTINF:0 retries="9999" type="stream" channelId="473" group="Infantil", Baby TV
 http://udq.me:80/live/Wk7K3/KgpMU/102681.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="O Reino Infantil" group="Infantil" logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png", O Reino Infantil
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="O Reino Infantil" group="Infantil" logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png", O Reino Infantil
 https://r.mjh.nz/PlutoTV/5f5c216df68f920007888315-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2410" name="Babyfirst" group="Infantil" logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png", Babyfirst
+#EXTINF:0 retries="9999" type="stream" channelId="2410" name="Babyfirst" group="Infantil" logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png", Babyfirst
 https://r.mjh.nz/PlutoTV/5f4fb4cf605ddf000748e16f-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Junior" group="Infantil" logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png" size="Small", Bucana TV Junior
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Junior" group="Infantil" logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png" size="Small", Bucana TV Junior
 https://r.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2908" group="Infantil", Zoomoo HD
+#EXTINF:0 retries="9999" type="stream" channelId="2908" group="Infantil", Zoomoo HD
 http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="A vida moderna de Rocko" group="Infantil" logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/solidLogoPNG.png", A vida moderna de Rocko
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="A vida moderna de Rocko" group="Infantil" logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/solidLogoPNG.png", A vida moderna de Rocko
 https://r.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Turma da Mônica" group="Infantil" logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/solidLogoPNG.png", Turma da Mônica
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Turma da Mônica" group="Infantil" logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/solidLogoPNG.png", Turma da Mônica
 https://r.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="As  Pistas de Blue" group="Infantil" logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/solidLogoPNG.png", As  Pistas de Blue
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="As  Pistas de Blue" group="Infantil" logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/solidLogoPNG.png", As  Pistas de Blue
 https://r.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://i.imgur.com/EsWzLG6.png" background="#000099", TV Nova Manchete
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://i.imgur.com/EsWzLG6.png" background="#000099", TV Nova Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="http://i.imgur.com/me7Ae0Q.png", Retrô Cartoon
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="http://i.imgur.com/me7Ae0Q.png", Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Anime" group="Infantil" logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" size="Small", Bucana TV Anime
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Anime" group="Infantil" logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png" size="Small", Bucana TV Anime
 https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Naruto" group="Infantil" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Naruto" group="Infantil" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="2718" group="Músicas", Bis HD
+#EXTINF:0 retries="9999" type="stream" channelId="2718" group="Músicas", Bis HD
 http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
-#EXTINF:0 retries="99" type="stream" channelId="1973" group="Músicas", MTV
+#EXTINF:0 retries="9999" type="stream" channelId="1973" group="Músicas", MTV
 http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1484" group="Músicas", MTV HD
+#EXTINF:0 retries="9999" type="stream" channelId="1484" group="Músicas", MTV HD
 https://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2l2/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="MTV Pluto TV" group="Músicas" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png", MTV Bucana TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="MTV Pluto TV" group="Músicas" logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png", MTV Bucana TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="2591" group="Músicas", Music Box Brazil
+#EXTINF:0 retries="9999" type="stream" channelId="2591" group="Músicas", Music Box Brazil
 http://udq.me:80/live/Wk7K3/KgpMU/13678.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Músicas", MTV Live
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Músicas", MTV Live
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v2a1a2/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="237" group="Músicas", MTV Live HD
+#EXTINF:0 retries="9999" type="stream" channelId="237" group="Músicas", MTV Live HD
 https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Músicas", Vibee TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Músicas", Vibee TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2147" group="Filmes e Séries", Studio Universal TV HD
+#EXTINF:0 retries="9999" type="stream" channelId="2147" group="Filmes e Séries", Studio Universal TV HD
 http://udq.me:80/live/Wk7K3/KgpMU/22671.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2749" group="Filmes e Séries" size="Small", Star Channel HD
+#EXTINF:0 retries="9999" type="stream" channelId="2749" group="Filmes e Séries" size="Small", Star Channel HD
 http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
-#EXTINF:0 retries="99" type="stream" channelId="2604" group="Filmes e Séries", Star Hits HD
+#EXTINF:0 retries="9999" type="stream" channelId="2604" group="Filmes e Séries", Star Hits HD
 http://srvx.io:80/live/7885037935/fireurl.co/71943.ts
-#EXTINF:0 retries="99" type="stream" channelId="2607" group="Filmes e Séries", Star Hits 2 HD
+#EXTINF:0 retries="9999" type="stream" channelId="2607" group="Filmes e Séries", Star Hits 2 HD
 http://srvx.io:80/live/7885037935/fireurl.co/71947.ts
-#EXTINF:0 retries="99" type="stream" channelId="2903" group="Filmes e Séries", Warner HD
+#EXTINF:0 retries="9999" type="stream" channelId="2903" group="Filmes e Séries", Warner HD
 http://udq.me:80/live/Wk7K3/KgpMU/22666.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="530" group="Filmes e Séries", Sony Channel HD
+#EXTINF:0 retries="9999" type="stream" channelId="530" group="Filmes e Séries", Sony Channel HD
 http://udq.me:80/live/Wk7K3/KgpMU/22690.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1304" group="Filmes e Séries", FX HD
+#EXTINF:0 retries="9999" type="stream" channelId="1304" group="Filmes e Séries", FX HD
 http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
-#EXTINF:0 retries="99" type="stream" channelId="2246" group="Filmes e Séries", AXN HD
+#EXTINF:0 retries="9999" type="stream" channelId="2246" group="Filmes e Séries", AXN HD
 http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
-#EXTINF:0 retries="99" type="stream" channelId="2602" group="Filmes e Séries" tvg-country="BR", TBS Brasil
+#EXTINF:0 retries="9999" type="stream" channelId="2602" group="Filmes e Séries" tvg-country="BR", TBS Brasil
 https://origin-02.nxplay.com.br/TBS/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2602" group="Filmes e Séries", TBS Brasil HD
+#EXTINF:0 retries="9999" type="stream" channelId="2602" group="Filmes e Séries", TBS Brasil HD
 https://origin-02.nxplay.com.br/TBS/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1190" group="Comédia", Comedy Central
+#EXTINF:0 retries="9999" type="stream" channelId="1190" group="Comédia", Comedy Central
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1191" group="Comédia", Comedy Central HD
+#EXTINF:0 retries="9999" type="stream" channelId="1191" group="Comédia", Comedy Central HD
 http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Porta dos Fundos" group="Comédia" logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png", Porta dos Fundos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Porta dos Fundos" group="Comédia" logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png", Porta dos Fundos
 https://r.mjh.nz/PlutoTV/5f36f2346ede750007332d11-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="FailArmy" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png", FailArmy
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="FailArmy" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png", FailArmy
 https://r.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2503" group="Estilo de Vida" tvg-country="br", A&E HD
+#EXTINF:0 retries="9999" type="stream" channelId="2503" group="Estilo de Vida" tvg-country="br", A&E HD
 http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
-#EXTINF:0 retries="99" type="stream" channelId="2842" group="Estilo de Vida", Investigação Discovery HD
+#EXTINF:0 retries="9999" type="stream" channelId="2842" group="Estilo de Vida", Investigação Discovery HD
 http://udq.me:80/live/Wk7K3/KgpMU/13149.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Investigação" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png", Bucana TV Investigação
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Investigação" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png", Bucana TV Investigação
 https://r.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1192" group="Filmes e Séries", Syfy HD
+#EXTINF:0 retries="9999" type="stream" channelId="1192" group="Filmes e Séries", Syfy HD
 http://udq.me:80/live/Wk7K3/KgpMU/22673.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1200" group="Estilo de Vida", Lifetime
+#EXTINF:0 retries="9999" type="stream" channelId="1200" group="Estilo de Vida", Lifetime
 http://udq.me:80/live/Wk7K3/KgpMU/106010.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2501" group="Filmes e Séries", AMC
+#EXTINF:0 retries="9999" type="stream" channelId="2501" group="Filmes e Séries", AMC
 http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
-#EXTINF:0 retries="99" type="stream" channelId="2632" group="Filmes e Séries", FIlm & Arts
+#EXTINF:0 retries="9999" type="stream" channelId="2632" group="Filmes e Séries", FIlm & Arts
 http://udq.me:80/live/Wk7K3/KgpMU/13315.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2576" group="Filmes e Séries", Canal Brasil HD
+#EXTINF:0 retries="9999" type="stream" channelId="2576" group="Filmes e Séries", Canal Brasil HD
 http://udq.me:80/live/Wk7K3/KgpMU/52519.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2900" group="Filmes e Séries", TNT
+#EXTINF:0 retries="9999" type="stream" channelId="2900" group="Filmes e Séries", TNT
 http://udq.me:80/live/Wk7K3/KgpMU/22669.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="3797", TNT Series
+#EXTINF:0 retries="9999" type="stream" channelId="3797", TNT Series
 http://udq.me:80/live/Wk7K3/KgpMU/22668.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2589" group="Filmes e Séries", Megapix HD
+#EXTINF:0 retries="9999" type="stream" channelId="2589" group="Filmes e Séries", Megapix HD
 http://udq.me:80/live/Wk7K3/KgpMU/22675.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2896" group="Filmes e Séries", Space HD
+#EXTINF:0 retries="9999" type="stream" channelId="2896" group="Filmes e Séries", Space HD
 http://udq.me:80/live/Wk7K3/KgpMU/22672.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2888" group="Filmes e Séries", Cinemax HD
+#EXTINF:0 retries="9999" type="stream" channelId="2888" group="Filmes e Séries", Cinemax HD
 http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
-#EXTINF:0 retries="99" type="stream" channelId="2593" group="Filmes e Séries", Prime Box Brazil
+#EXTINF:0 retries="9999" type="stream" channelId="2593" group="Filmes e Séries", Prime Box Brazil
 http://udq.me:80/live/Wk7K3/KgpMU/13294.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2147" group="Filmes e Séries", Studio Universal HD
+#EXTINF:0 retries="9999" type="stream" channelId="2147" group="Filmes e Séries", Studio Universal HD
 http://udq.me:80/live/Wk7K3/KgpMU/22671.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Paramount+ Apresenta" group="Filmes e Séries" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png", Paramount+ Apresenta
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Paramount+ Apresenta" group="Filmes e Séries" logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png", Paramount+ Apresenta
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 retries="99" type="stream" channelId="4036" group="Filmes e Séries" tvg-country="BR", Paramount Network HD
+#EXTINF:0 retries="9999" type="stream" channelId="4036" group="Filmes e Séries" tvg-country="BR", Paramount Network HD
 https://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="895" group="Clássicos", TCM
+#EXTINF:0 retries="9999" type="stream" channelId="895" group="Clássicos", TCM
 http://udq.me:80/live/Wk7K3/KgpMU/13292.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2610" group="Filmes e Séries", Telecine Premium
+#EXTINF:0 retries="9999" type="stream" channelId="2610" group="Filmes e Séries", Telecine Premium
 http://udq.me:80/live/Wk7K3/KgpMU/22805.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2603" group="Filmes e Séries", Telecine Action
+#EXTINF:0 retries="9999" type="stream" channelId="2603" group="Filmes e Séries", Telecine Action
 http://udq.me:80/live/Wk7K3/KgpMU/22802.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2611" group="Filmes e Séries", Telecine Touch
+#EXTINF:0 retries="9999" type="stream" channelId="2611" group="Filmes e Séries", Telecine Touch
 http://udq.me:80/live/Wk7K3/KgpMU/22806.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2606" group="Filmes e Séries", Telecine Fun
+#EXTINF:0 retries="9999" type="stream" channelId="2606" group="Filmes e Séries", Telecine Fun
 http://udq.me:80/live/Wk7K3/KgpMU/22803.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2608" group="Filmes e Séries", Telecine Pipoca
+#EXTINF:0 retries="9999" type="stream" channelId="2608" group="Filmes e Séries", Telecine Pipoca
 http://udq.me:80/live/Wk7K3/KgpMU/22804.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2605" group="Filmes e Séries", Telecine Cult
+#EXTINF:0 retries="9999" type="stream" channelId="2605" group="Filmes e Séries", Telecine Cult
 http://udq.me:80/live/Wk7K3/KgpMU/22801.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1330" group="Filmes e Séries", HBO HD
+#EXTINF:0 retries="9999" type="stream" channelId="1330" group="Filmes e Séries", HBO HD
 http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
-#EXTINF:0 retries="99" type="stream" channelId="935" group="Filmes e Séries", HBO 2
+#EXTINF:0 retries="9999" type="stream" channelId="935" group="Filmes e Séries", HBO 2
 http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
-#EXTINF:0 retries="99" type="stream" channelId="2585" group="Filmes e Séries" size="Small", HBO Plus
+#EXTINF:0 retries="9999" type="stream" channelId="2585" group="Filmes e Séries" size="Small", HBO Plus
 http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
-#EXTINF:0 retries="99" type="stream" channelId="2584" group="Filmes e Séries", HBO Family
+#EXTINF:0 retries="9999" type="stream" channelId="2584" group="Filmes e Séries", HBO Family
 http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
-#EXTINF:0 retries="99" type="stream" channelId="2583" group="Filmes e Séries", HBO Signature
+#EXTINF:0 retries="9999" type="stream" channelId="2583" group="Filmes e Séries", HBO Signature
 http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
-#EXTINF:0 retries="99" type="stream" channelId="361" group="Filmes e Séries", HBO Pop
+#EXTINF:0 retries="9999" type="stream" channelId="361" group="Filmes e Séries", HBO Pop
 http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
-#EXTINF:0 retries="99" type="stream" channelId="2725" group="Filmes e Séries", HBO Mundi
+#EXTINF:0 retries="9999" type="stream" channelId="2725" group="Filmes e Séries", HBO Mundi
 http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
-#EXTINF:0 retries="99" type="stream" channelId="2587" group="Filmes e Séries", HBO Xtreme
+#EXTINF:0 retries="9999" type="stream" channelId="2587" group="Filmes e Séries", HBO Xtreme
 http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Cine Sucessos" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" background="#006b85", Cine Sucessos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Cine Sucessos" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png" background="#006b85", Cine Sucessos
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Filmes Ação" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" background="#a40000", Cine Ação
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Filmes Ação" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/solidLogoPNG.png" background="#a40000", Cine Ação
 https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Cine Drama" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" background="#0d6400", Cine Drama
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Cine Drama" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png" background="#0d6400", Cine Drama
 https://r.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Cine Comédia" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" background="#b0b200", Cine Comédia
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Cine Comédia" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" background="#b0b200", Cine Comédia
 https://r.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Filmes Suspense" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" background="#6f0066", Cine Suspense
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Filmes Suspense" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" background="#6f0066", Cine Suspense
 https://r.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Cine Terror" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" background="#000000", Cine Terror
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Cine Terror" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png" background="#000000", Cine Terror
 https://r.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Cine Família" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" background="#ce0067", Cine Família
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Cine Família" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png" background="#ce0067", Cine Família
 https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Filmes Nacionais" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" background="#01c106", Cine Filmes Nacionais
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Filmes Nacionais" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png" background="#01c106", Cine Filmes Nacionais
 https://r.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" name="Pluto TV Séries" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" size="Small" background="#652ea6", Pluto TV Séries
+#EXTINF:0 retries="9999" type="stream" channelId="-1" name="Pluto TV Séries" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png" size="Small" background="#652ea6", Pluto TV Séries
 https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2564" group="Religioso", Terra Viva
+#EXTINF:0 retries="9999" type="stream" channelId="2564" group="Religioso", Terra Viva
 http://cdn-1.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2609" group="Religioso" logo="https://i.imgur.com/QB4AoSG.png" background="#00c712", Novo Tempo
+#EXTINF:0 retries="9999" type="stream" channelId="2609" group="Religioso" logo="https://i.imgur.com/QB4AoSG.png" background="#00c712", Novo Tempo
 https://cdn-1.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2716" group="Canais Abertos", Agro TV
+#EXTINF:0 retries="9999" type="stream" channelId="2716" group="Canais Abertos", Agro TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?
-#EXTINF:0 retries="99" type="stream" channelId="2451" name="Rede Vida" group="Religioso" logo="https://i.imgur.com/spwcMJ5.png" background="#003b9b", Rede Vida
+#EXTINF:0 retries="9999" type="stream" channelId="2451" name="Rede Vida" group="Religioso" logo="https://i.imgur.com/spwcMJ5.png" background="#003b9b", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2449" group="Religioso" background="#dbe11a", Canção Nova HD
+#EXTINF:0 retries="9999" type="stream" channelId="2449" group="Religioso" background="#dbe11a", Canção Nova HD
 http://udq.me:80/live/Wk7K3/KgpMU/105992.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/FecmCJp.png" background="#fa921f", TV Pai Eterno
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/FecmCJp.png" background="#fa921f", TV Pai Eterno
 https://cdn-1.nxplay.com.br/TV_PAI_ETERNO/video.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2448" group="Religioso" logo="https://i.imgur.com/nNUoXp4.png" background="#064c76", TV Aparecida
+#EXTINF:0 retries="9999" type="stream" channelId="2448" group="Religioso" logo="https://i.imgur.com/nNUoXp4.png" background="#064c76", TV Aparecida
 https://cdn-1.nxplay.com.br/TV_APARECIDA/tracks-v1a1/index.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="2439" group="Religioso" logo="https://i.imgur.com/dvpV5HY.png" background="#035fe4", Rede CNT
+#EXTINF:0 retries="9999" type="stream" channelId="2439" group="Religioso" logo="https://i.imgur.com/dvpV5HY.png" background="#035fe4", Rede CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/jXBUVhr.png" background="#464646", Gospel Music
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/jXBUVhr.png" background="#464646", Gospel Music
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/Xbe0FNZ.png" background="#464646", Gospel Movie
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/Xbe0FNZ.png" background="#464646", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/uLIlR4v.png" background="#464646", Gospel Cartoon
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Religioso" logo="https://i.imgur.com/uLIlR4v.png" background="#464646", Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" size="Small", Pluto TV Adrenalina Freezone
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" size="Small", Pluto TV Adrenalina Freezone
 https://r.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" size="Small" background="#e7a2a2", Cine Comédia Romântica
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" size="Small" background="#e7a2a2", Cine Comédia Romântica
 https://r.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/solidLogoPNG.png" size="Small", Pluto TV Filmelier
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/solidLogoPNG.png" size="Small", Pluto TV Filmelier
 https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" size="Small", Pluto TV Cine Romance
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/solidLogoPNG.png" size="Small", Pluto TV Cine Romance
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/solidLogoPNG.png" size="Small", Pluto TV Cine Crime
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/solidLogoPNG.png" size="Small", Pluto TV Cine Crime
 https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/solidLogoPNG.png" size="Small", Pluto TV Ficção Científica
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/solidLogoPNG.png" size="Small", Pluto TV Ficção Científica
 https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/solidLogoPNG.png" size="Small", Runtime
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/solidLogoPNG.png" size="Small", Runtime
 https://r.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/solidLogoPNG.png" size="Small", Pluto TV Cine Clássicos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/solidLogoPNG.png" size="Small", Pluto TV Cine Clássicos
 https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/solidLogoPNG.png" size="Small", Pluto TV Cine Inspiração
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/solidLogoPNG.png" size="Small", Pluto TV Cine Inspiração
 https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/solidLogoPNG.png" size="Small", CSI: Miami
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/solidLogoPNG.png" size="Small", CSI: Miami
 https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/solidLogoPNG.png" size="Small", NCIS
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/solidLogoPNG.png" size="Small", NCIS
 https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/solidLogoPNG.png", Pluto TV Séries Ação
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/solidLogoPNG.png", Pluto TV Séries Ação
 https://r.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/solidLogoPNG.png", Rookie Blue
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Filmes e Séries" logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/solidLogoPNG.png", Rookie Blue
 https://r.mjh.nz/PlutoTV/64ff2d8c6625510008c5a512-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/solidLogoPNG.png", Inferno sobre Rodas
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/64ff2c773efb5100082efb73/solidLogoPNG.png", Inferno sobre Rodas
 https://r.mjh.nz/PlutoTV/64ff2c773efb5100082efb73-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/solidLogoPNG.png", Pluto TV Séries Sci-Fi
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/solidLogoPNG.png", Pluto TV Séries Sci-Fi
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/solidLogoPNG.png", The Night Shift Plantão Noturno
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/solidLogoPNG.png", The Night Shift Plantão Noturno
 https://r.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/solidLogoPNG.png", BET Pluto TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/solidLogoPNG.png", BET Pluto TV
 https://r.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/solidLogoPNG.png", BET Being Mary Jane
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/solidLogoPNG.png", BET Being Mary Jane
 https://r.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/solidLogoPNG.png", Younger
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Séries" logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/solidLogoPNG.png", Younger
 https://r.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/solidLogoPNG.png", A Feiticeira
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/solidLogoPNG.png", A Feiticeira
 https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/solidLogoPNG.png", Jeannie é um Gênio
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/solidLogoPNG.png", Jeannie é um Gênio
 https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/solidLogoPNG.png", Diff’rent Strokes Arnold
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/solidLogoPNG.png", Diff’rent Strokes Arnold
 https://r.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/solidLogoPNG.png", As Panteras
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/648776bf536e0c0008b49aef/solidLogoPNG.png", As Panteras
 https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/solidLogoPNG.png", Starsky & Hutch - Justiça em Dobro
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/6489c4a066e48500083ccf97/solidLogoPNG.png", Starsky & Hutch - Justiça em Dobro
 https://r.mjh.nz/PlutoTV/6489c4a066e48500083ccf97-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/solidLogoPNG.png", MacGyver
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/solidLogoPNG.png", MacGyver
 https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/solidLogoPNG.png", O Homem que veio do Céu
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/solidLogoPNG.png", O Homem que veio do Céu
 https://r.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/solidLogoPNG.png", Louco por Você
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/64877764dc7a760008a12799/solidLogoPNG.png", Louco por Você
 https://r.mjh.nz/PlutoTV/64877764dc7a760008a12799-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/62e013a824f1bd0007a55631/solidLogoPNG.png", The Ed Sullivan Show
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Retrô" logo="https://images.pluto.tv/channels/62e013a824f1bd0007a55631/solidLogoPNG.png", The Ed Sullivan Show
 https://r.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/solidLogoPNG.png", MTV Drag
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/solidLogoPNG.png", MTV Drag
 https://r.mjh.nz/PlutoTV/645111f1d8436e00081bb2bd-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/solidLogoPNG.png", MTV Shore
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/solidLogoPNG.png", MTV Shore
 https://r.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/solidLogoPNG.png", MTV Com o Ex
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/solidLogoPNG.png", MTV Com o Ex
 https://r.mjh.nz/PlutoTV/61a528267e1b8b0007357920-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/solidLogoPNG.png", MTV Jovens e Mães
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/solidLogoPNG.png", MTV Jovens e Mães
 https://r.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoPNG.png", MTV Catfish
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/solidLogoPNG.png", MTV Catfish
 https://r.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/solidLogoPNG.png", MasterChef
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Reality" logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/solidLogoPNG.png", MasterChef
 https://r.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoPNG.png", Pluto TV Paisagens por Stingray
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/solidLogoPNG.png", Pluto TV Paisagens por Stingray
 https://r.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/solidLogoPNG.png", Pluto TV Animais
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/solidLogoPNG.png", Pluto TV Animais
 https://r.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/solidLogoPNG.png", O Encantador de Cães
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/solidLogoPNG.png", O Encantador de Cães
 https://r.mjh.nz/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/solidLogoPNG.png", Pluto TV Turbo
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/solidLogoPNG.png", Pluto TV Turbo
 https://r.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoPNG.png", Pluto TV Negócio Fechado
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/solidLogoPNG.png", Pluto TV Negócio Fechado
 https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/solidLogoPNG.png", Pluto TV Minha Obsessão Favorita
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/solidLogoPNG.png", Pluto TV Minha Obsessão Favorita
 https://r.mjh.nz/PlutoTV/61843f5e491af10007f7eefa-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/solidLogoPNG.png", Pronto-socorro: Histórias De Emergência
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/solidLogoPNG.png", Pronto-socorro: Histórias De Emergência
 https://r.mjh.nz/PlutoTV/61bb72a7bf8c520007a8fd27-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/solidLogoPNG.png", Pluto TV Mistérios
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/solidLogoPNG.png", Pluto TV Mistérios
 https://r.mjh.nz/PlutoTV/5fac52f142044f00078e2a51-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/solidLogoPNG.png", Assombrações
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/solidLogoPNG.png", Assombrações
 https://r.mjh.nz/PlutoTV/620d1512c7986a0007220213-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/solidLogoPNG.png", Pluto TV Quebrando o Tabu
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/solidLogoPNG.png", Pluto TV Quebrando o Tabu
 https://r.mjh.nz/PlutoTV/62cd9e5a5c38c00007f5669a-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/solidLogoPNG.png", Smithsonian Channel Pluto TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/solidLogoPNG.png", Smithsonian Channel Pluto TV
 https://r.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/solidLogoPNG.png", Pluto TV Documentários
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Curiosidades" logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/solidLogoPNG.png", Pluto TV Documentários
 https://r.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/solidLogoPNG.png", Os Arquivos do FBI
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/solidLogoPNG.png", Os Arquivos do FBI
 https://r.mjh.nz/PlutoTV/620d12a82e8ac50007c269c3-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/solidLogoPNG.png", Detetives Médicos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/solidLogoPNG.png", Detetives Médicos
 https://r.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/solidLogoPNG.png", Mistérios sem Solução
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Investigação" logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/solidLogoPNG.png", Mistérios sem Solução
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/62310f66d5888f0007534342/solidLogoPNG.png", CBS News
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/62310f66d5888f0007534342/solidLogoPNG.png", CBS News
 https://r.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/solidLogoPNG.png", Euronews Português
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/619e6614c9d9650007a2b171/solidLogoPNG.png", Euronews Português
 https://r.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/solidLogoPNG.png", Pluto TV Record News
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/solidLogoPNG.png", Pluto TV Record News
 https://r.mjh.nz/PlutoTV/6102e04e9ab1db0007a980a1-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/solidLogoPNG.png", Jovem Pan NEWS
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/solidLogoPNG.png", Jovem Pan NEWS
 https://r.mjh.nz/PlutoTV/6317ba014d4d040007227f72-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/solidLogoPNG.png", Pluto TV Canal UOL
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Notícias" logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/solidLogoPNG.png", Pluto TV Canal UOL
 https://r.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/solidLogoPNG.png", Pluto TV Esportes
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/solidLogoPNG.png", Pluto TV Esportes
 https://r.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="1332" group="Esportes" logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/solidLogoPNG.png", Realmadrid TV
+#EXTINF:0 retries="9999" type="stream" channelId="1332" group="Esportes" logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/solidLogoPNG.png", Realmadrid TV
 https://r.mjh.nz/PlutoTV/63dac28760bc8f0008a7654b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/solidLogoPNG.png", DAZN Women's Football
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/solidLogoPNG.png", DAZN Women's Football
 https://r.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="4172" group="Esportes" logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/solidLogoPNG.png", FUEL TV
+#EXTINF:0 retries="9999" type="stream" channelId="4172" group="Esportes" logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/solidLogoPNG.png", FUEL TV
 https://r.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/solidLogoPNG.png", PFL MMA
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/solidLogoPNG.png", PFL MMA
 https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/solidLogoPNG.png", World Poker Tour
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/solidLogoPNG.png", World Poker Tour
 https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/solidLogoPNG.png", Comedy Central South Park
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/solidLogoPNG.png", Comedy Central South Park
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png", Pluto TV Comédia
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png", Pluto TV Comédia
 https://r.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/solidLogoPNG.png", Comedy Central Pluto TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/solidLogoPNG.png", Comedy Central Pluto TV
 https://r.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/63eb9b26c111bc0008fea494/solidLogoPNG.png", Best of The Drew Barrymore Show
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/63eb9b26c111bc0008fea494/solidLogoPNG.png", Best of The Drew Barrymore Show
 https://r.mjh.nz/PlutoTV/63eb9b26c111bc0008fea494-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/solidLogoPNG.png", Nosey Escândalos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/solidLogoPNG.png", Nosey Escândalos
 https://r.mjh.nz/PlutoTV/5f9b05a99547eb0007676b02-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/602e80c762306a0007179876/solidLogoPNG.png", Pânico
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Entretenimento" logo="https://images.pluto.tv/channels/602e80c762306a0007179876/solidLogoPNG.png", Pânico
 https://r.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/solidLogoPNG.png", Pluto TV Estilo de Vida
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/solidLogoPNG.png", Pluto TV Estilo de Vida
 https://r.mjh.nz/PlutoTV/60f8841a4865da0007421177-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/solidLogoPNG.png", Pluto TV KFOOD
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/solidLogoPNG.png", Pluto TV KFOOD
 https://r.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png", Pluto TV Fashionstream
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Estilo de Vida" logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png", Pluto TV Fashionstream
 https://r.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png", Pluto TV Anime Ação
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png", Pluto TV Anime Ação
 https://r.mjh.nz/PlutoTV/604b79c558393100078faeef-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png", Naruto
 https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/64c92f965580090008084968/solidLogoPNG.png", Naruto Shippuden
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/64c92f965580090008084968/solidLogoPNG.png", Naruto Shippuden
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png", Death Note
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png", Death Note
 https://r.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/solidLogoPNG.png", Super Onze
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/solidLogoPNG.png", Super Onze
 https://r.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/solidLogoPNG.png", Yu-Gi-Oh
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/solidLogoPNG.png", Yu-Gi-Oh
 https://r.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/646663b01593940008990a57/solidLogoPNG.png", Captain Tsubasa
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/646663b01593940008990a57/solidLogoPNG.png", Captain Tsubasa
 https://r.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/solidLogoPNG.png", Beyblade
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/solidLogoPNG.png", Beyblade
 https://r.mjh.nz/PlutoTV/633dc392e0282400071b0d39-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/solidLogoPNG.png", One Piece
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/solidLogoPNG.png", One Piece
 https://r.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/solidLogoPNG.png", Tokusato
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/solidLogoPNG.png", Tokusato
 https://r.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/solidLogoPNG.png", Pluto TV Geek e Tech
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/solidLogoPNG.png", Pluto TV Geek e Tech
 https://r.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/solidLogoPNG.png", Pluto TV Gaming por Ubisoft
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Anime & Geek" logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/solidLogoPNG.png", Pluto TV Gaming por Ubisoft
 https://r.mjh.nz/PlutoTV/64c815e8a1c6130008fef928-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/solidLogoPNG.png", Nick Teen
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/solidLogoPNG.png", Nick Teen
 https://r.mjh.nz/PlutoTV/60f5fabf0721880007cd50e3-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/solidLogoPNG.png", Nickelodeon iCarly
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/solidLogoPNG.png", Nickelodeon iCarly
 https://r.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png", Kenan & Kel
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png", Kenan & Kel
 https://r.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/solidLogoPNG.png", Clube do Terror
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Teen" logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/solidLogoPNG.png", Clube do Terror
 https://r.mjh.nz/PlutoTV/64e501eec630a900088ed0f8-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/solidLogoPNG.png", PAW Patrol Patrulha Canina
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6495c7ad115d060008bf6df0/solidLogoPNG.png", PAW Patrol Patrulha Canina
 https://r.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/solidLogoPNG.png", Baby Shark TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/solidLogoPNG.png", Baby Shark TV
 https://r.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/solidLogoPNG.png", Teletubbies
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/64e50055286f6b000838c067/solidLogoPNG.png", Teletubbies
 https://r.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/solidLogoPNG.png", Cocoricó
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/solidLogoPNG.png", Cocoricó
 https://r.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/61f2c6969fcc3800076ef8af/solidLogoPNG.png", Rugrats
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/61f2c6969fcc3800076ef8af/solidLogoPNG.png", Rugrats
 https://r.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/solidLogoPNG.png", Nickelodeon Rocket Power
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/solidLogoPNG.png", Nickelodeon Rocket Power
 https://r.mjh.nz/PlutoTV/6202a7fcfb1b100008811f54-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/solidLogoPNG.png", Nickelodeon Pluto TV
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/solidLogoPNG.png", Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/solidLogoPNG.png", Bob Esponja Calça Quadrada
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/solidLogoPNG.png", Bob Esponja Calça Quadrada
 https://r.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/solidLogoPNG.png", Os Padrinhos Mágicos
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/solidLogoPNG.png", Os Padrinhos Mágicos
 https://r.mjh.nz/PlutoTV/63221e41af69b500076f84e7-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/solidLogoPNG.png", As Tartarugas Ninja
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/solidLogoPNG.png", As Tartarugas Ninja
 https://r.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/solidLogoPNG.png", As Aventuras de Jackie Chan
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/solidLogoPNG.png", As Aventuras de Jackie Chan
 https://r.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/solidLogoPNG.png", Oggy e as Baratas Tontas
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/solidLogoPNG.png", Oggy e as Baratas Tontas
 https://r.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/solidLogoPNG.png", Moranguinho
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Infantil" logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/solidLogoPNG.png", Moranguinho
 https://r.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/solidLogoPNG.png", MTV Biggest Pop
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/solidLogoPNG.png", MTV Biggest Pop
 https://r.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/solidLogoPNG.png", MTV Spankin' New
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/solidLogoPNG.png", MTV Spankin' New
 https://r.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoPNG.png", Pluto TV Shows por Stingray
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/solidLogoPNG.png", Pluto TV Shows por Stingray
 https://r.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
-#EXTINF:0 retries="99" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoPNG.png", Pluto TV Karaokê por Stingray
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Música" logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/solidLogoPNG.png", Pluto TV Karaokê por Stingray
 https://r.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8

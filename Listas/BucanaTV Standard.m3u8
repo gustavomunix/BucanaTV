@@ -479,7 +479,7 @@ https://r.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8
 https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
 #EXTINF:0 retries="9999" type="stream" channelId="-1" group="Esportes" logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/solidLogoPNG.png", World Poker Tour
 https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
-#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/solidLogoPNG.png", Comedy Central South Park
+#EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/solidLogoPNG.png", Comedy Central South Park Direto
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8
 #EXTINF:0 retries="9999" type="stream" channelId="-1" group="Comédia" logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/solidLogoPNG.png", Pluto TV Comédia
 https://r.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8

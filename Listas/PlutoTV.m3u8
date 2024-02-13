@@ -251,7 +251,7 @@ https://r.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8
 #EXTINF:-1 retries="9999" channel-id="pluto-5f357e91b18f0b00073583d2" tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" tvg-chno="999" group-title="Comédia" , Comedy Central Pluto TV
 https://r.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8
 
-#EXTINF:-1 retries="9999" channel-id="pluto-5f36f2346ede750007332d11" tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1 retries="9999"602877726414.png" tvg-chno="1004" group-title="Comédia" , Porta dos Fundos
+#EXTINF:-1 retries="9999" channel-id="pluto-5f36f2346ede750007332d11" tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" tvg-chno="1004" group-title="Comédia" , Porta dos Fundos
 https://r.mjh.nz/PlutoTV/5f36f2346ede750007332d11-alt.m3u8
 
 #EXTINF:-1 retries="9999" channel-id="pluto-5f5141c1605ddf000748eb1b" tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" tvg-chno="1009" group-title="Comédia" , FailArmy
